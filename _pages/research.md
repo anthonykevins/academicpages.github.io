@@ -1,13 +1,10 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
   - /research
 ---
-
-[Utrecht University's](https://www.uu.nl/en/) 
 
 Below you will find an overview of my ongoing and past research projects. You can also find my full CV [here](https://anthonykevins.github.io/files/CV.pdf).
 
