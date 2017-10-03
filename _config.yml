@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Anthony Kevins"
   avatar           : "profile.png"
-  bio              : "Marie Curie Fellow"
-  location         : "School of Governance"
-  employer         : "Utrecht University"
+  bio              : "Marie Curie Fellow" "School of Governance" "Utrecht University"
+  location         : 
+  employer         : 
   googlescholar    : 
   email            :
   uri              :
