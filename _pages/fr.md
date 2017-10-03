@@ -8,7 +8,7 @@ redirect_from:
 
 # Version française
 
-**[Ma recherche](#ma-recherche) / [Mon enseignement](#mon-enseignement) / [Mes publications](#mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf) / [English site](https://anthonykevins.github.io)** <br>
+**[Ma recherche](#ma-recherche) &ensp; / &ensp; [Mon enseignement](#mon-enseignement) &ensp; / &ensp; [Mes publications](#mes-publications)  &ensp; / &ensp; [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf) &ensp; / &ensp; [English site](https://anthonykevins.github.io)** <br>
 
 ## Qui suis-je ?
 
