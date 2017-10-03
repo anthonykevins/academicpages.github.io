@@ -25,7 +25,6 @@ Vous trouverez davantage de détails sur mes projets actuels et passés ci-desso
 [Haut de page](#version-française) 
  
 ---
-
 ## Ma recherche
 
 Veuillez trouver ci-dessous une présentation de mes projets de recherche actuels et passés. Vous pouvez également télécharger mes publications [ici](#mes-publications).  
