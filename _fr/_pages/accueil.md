@@ -4,8 +4,8 @@ title: "About me"
 excerpt: "Anthony Kevins is a Marie Curie Research Fellow at Utrecht University's School of Governance. His research is focused on the interplay between public opinion and policy, in particular regarding marginalised groups and the welfare state."
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /accueil/
+  - /accueil.html
 ---
 
 My research is focused on the interplay between public opinion and policy, in particular regarding marginalised groups and the welfare state. Some of the questions I've explored include: What factors shape the relationship between societal insiders and outsiders? How can we best understand social policy preferences? And what drives social programme reform? 
