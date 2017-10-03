@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Research"
-permalink: /Research/
+title: "research"
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /research
 ---
 
 Below you will find an overview of my ongoing and past research projects. You can also find my full CV here.
