@@ -6,7 +6,7 @@ redirect_from:
   - /fr
 ---
 
-[Ma recherche](#Ma-recherche) / [Mon enseignement](#Mon-enseignement) / [Mes Publications](#Mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)<br><br>
+[Ma recherche](#ma-recherche) / [Mon enseignement](#mon-enseignement) / [Mes Publications](#mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)<br><br>
 
 # Qui suis-je?
 
