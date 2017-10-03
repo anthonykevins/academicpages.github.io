@@ -8,7 +8,7 @@ redirect_from:
 
 # Version française
 
-**[Ma recherche](#ma-recherche) &ensp; / &ensp; [Mon enseignement](#mon-enseignement) &ensp; / &ensp; [Mes publications](#mes-publications)  &ensp; / &ensp; [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf) &ensp; / &ensp; [English](https://anthonykevins.github.io)** <br>
+**[Recherche](#recherche) &ensp; / &ensp; [Enseignement](#enseignement) &ensp; / &ensp; [Publications](#publications)  &ensp; / &ensp; [CV](http://anthonykevins.github.io/files/CV_fr.pdf) &ensp; / &ensp; [English](https://anthonykevins.github.io)** <br>
 
 ## Qui suis-je ?
 
@@ -24,7 +24,7 @@ Vous trouverez davantage de détails sur mes projets actuels et passés ci-desso
 
 **[Haut de page](#version-française)**<br><br> 
  
-## Ma recherche
+## Recherche
 
 Veuillez trouver ci-dessous une présentation de mes projets de recherche actuels et passés. Vous pouvez également télécharger mes publications [ici](#mes-publications).  
 
@@ -54,7 +54,7 @@ Ma recherche sur ce sujet a été publiée récemment dans mon livre *[Expanding
 
 **[Haut de page](#version-française)**<br><br> 
  
-## Mon enseignement
+## Enseignement
 
 Vous trouverez ci-dessous une vue d'ensemble de ma philosophie pédagogique ainsi que mes expériences et ma formation en enseignement.
 
@@ -94,7 +94,7 @@ J’ai assisté à deux cours pédagogiques offerts par le Centre d’enseigneme
 
 **[Haut de page](#version-française)**<br><br> 
  
-## Mes publications
+## Publications
 
 ### Livres (avec comité de lecture)
 Anthony Kevins. (2017) *[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)*, Amsterdam University Press. 
