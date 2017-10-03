@@ -23,7 +23,7 @@ Vous trouverez davantage de détails sur mes projets actuels et passés ci-desso
 
 # Ma recherche
 
-Veuillez trouver ci-dessous une présentation de mes projets de recherche actuels et passés. 
+Veuillez trouver ci-dessous une présentation de mes projets de recherche actuels et passés. Vous pouvez également télécharger mes publications [ici](#mes-publications).  
 
 ### Qui devrait avoir un mot à dire ? Préférences pour la représentation inégale
 
