@@ -1,14 +1,12 @@
 ---
-title: ""
+title: "Version française"
 permalink: /fr/
 author_profile: true
 redirect_from:
   - /fr
 ---
 
-# Version française
-
-[Ma recherche](#ma-recherche) / [Mon enseignement](#mon-enseignement) / [Mes Publications](#mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)<br><br>
+[Ma recherche](#ma-recherche) / [Mon enseignement](#mon-enseignement) / [Mes Publications](#mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)<br><br> / [English](https://anthonykevins.github.io)
 
 ## Qui suis-je ?
 
