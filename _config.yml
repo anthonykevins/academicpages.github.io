@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Anthony Kevins"
 description              : &description "Anthony Kevins is a Marie Curie Research Fellow at Utrecht University's School of Governance. His research is focused on the interplay between public opinion and policy, in particular regarding marginalised groups and the welfare state."
 url                      : https://anthonykevins.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://anthonykevins.github.io/about" # the subpath of your site, e.g. "/blog"
 repository               : "anthonykevins/anthonykevins.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Anthony Kevins"
   avatar           : "profile.png"
-  bio              : "Marie Curie Fellow <br/> School of Governance <br/> Utrecht University"
+  bio              : "Marie Curie Research Fellow <br/> School of Governance <br/> Utrecht University"
   location         : 
   employer         : 
   googlescholar    : 
