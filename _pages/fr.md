@@ -6,6 +6,10 @@ redirect_from:
   - /fr
 ---
 
+[Qui suis-je?](#Qui suis-je?) / [Ma recherche](#Recherche) / [Mon enseignement](#Mon enseignement) / [Mes Publications](#Mes Publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)<br><br>
+
+# Qui suis-je?
+
 Ma recherche se concentre sur l’interaction entre l’opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés. Certaines des questions que j’ai tenté d’investiguer jusqu'à maintenant sont : quels facteurs influencent les rapports entre les inclus et les exclus ? Comment peut-on mieux comprendre les préférences de l’opinion publique par rapport aux politiques sociales ? Et quels éléments incitent les réformes des programmes sociaux ?
 
 Actuellement, je suis chercheur Marie Curie (« Marie Curie Research Fellow ») à l’École de gouvernance de l'université d’Utrecht. Mon projet étudie les préférences de l'opinion publique pour la représentation inégale, cherchant à découvrir quand et pourquoi les citoyens croient que certains groupes sociaux méritent d’avoir une influence étendue ou réduite sur le processus politique.
@@ -17,7 +21,7 @@ J’ai obtenu mon doctorat au Département de science politique à l’Universit
 Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon CV, disponible en français [ici](http://anthonykevins.github.io/files/CV_fr.pdf).<br><br>
 
 
-# Recherche
+# Ma recherche
 
 Veuillez trouver ci-dessous une présentation de mes projets de recherche actuels et passés. 
 
@@ -46,7 +50,7 @@ Qui mérite notre appui collectif ? Constituant une question clé de notre époq
 Ma recherche sur ce sujet a été publiée récemment dans mon livre *[Expanding Welfare in an Age of Austerity](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)*, paru récemment (2017) chez Amsterdam University Press (disponible en Amérique du Nord chez University of Chicago Press). Cet ouvrage approfondit le dilemme auquel les partis et syndicats de gauche sont confrontés face aux lacunes des couvertures sociales et à l’austérité, lorsqu’ils doivent choisir entre la protection des acquis aux inclus et l’extension de la couverture aux exclus. Il comprend deux comparaisons entre la France et l’Italie (soutenues par plus d’une demi-année de recherche sur le terrain) ainsi qu’une étude quantitative et qualitative de la généralisabilité des résultats. Je constate que des facteurs-clés, normalement associés avec l’Europe du Sud, ont influencé les positions des partis et des politiques directement (par la création d'avantages organisationnels) et indirectement (par le conditionnement de l'opinion publique). Dans l’ensemble, le livre fait avancer les débats sur le rapport entre l’accès à la sécurité sociale et les préférences en matière de politiques sociales, tout en offrant un aperçu des défis réels auxquels sont confrontées les politiques actuelles dans le cadre des programmes d'austérité.<br><br>
 
 
-# Enseignement
+# Mon enseignement
 
 Vous trouverez ci-dessous une vue d'ensemble de ma philosophie pédagogique ainsi que mes expériences et ma formation en enseignement.
 
@@ -85,7 +89,7 @@ J’ai assisté à deux cours pédagogiques offerts par le Centre d’enseigneme
   * Ce cours comprend un atelier de quatre heures sur l’approche pédagogique danoise à l’enseignement de travaux dirigés dans un contexte multiculture<br><br>
 
 
-# Publications
+# Mes publications
 
 ### Livres (avec comité de lecture)
 Anthony Kevins. (2017) *[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)*, Amsterdam University Press. 
