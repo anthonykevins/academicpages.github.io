@@ -1,5 +1,5 @@
 ---
-title: "Version française"
+title: ""
 permalink: /fr/
 author_profile: true
 redirect_from:
