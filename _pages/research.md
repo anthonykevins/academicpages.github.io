@@ -7,7 +7,8 @@ redirect_from:
   - /research
 ---
 
-Below you will find an overview of my ongoing and past research projects. You can also find my full CV here.
+
+Below you will find an overview of my ongoing and past research projects. You can also find my full CV [here](https://anthonykevins.github.io/files/CV.pdf).
 
 ### Who Should Have a Say? Preferences for Unequal Representation
 
@@ -19,11 +20,12 @@ Funded by a Marie Curie Individual Fellowship, this project investigates attitud
 
 How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Through my ongoing affiliation with the UNIWEL (Universalism and the Welfare State) project at Aarhus University, I have investigated various topics related to this theme. This has included papers researching:
 
-The attitudinal effects of the structure of inequality across the income spectrum
-The equality and welfare content of party manifestoes
-The reciprocal relationship between workfare reforms and welfare state preferences
-The motives citizens attribute to those with pro-/anti-redistribution stances
-The attitudinal implications of class identity
+* The attitudinal effects of the structure of inequality across the income spectrum
+* The equality and welfare content of party manifestoes
+* The reciprocal relationship between workfare reforms and welfare state preferences
+* The motives citizens attribute to those with pro-/anti-redistribution stances
+* The attitudinal implications of class identity
+
 Much of this research has been rooted in an original survey we fielded in the US and nine Western European countries. These unique surveys examine social policy preferences from a variety of perspectives, including as they relate to perceptions of fairness, policy trade-offs, inequality, and immigration.
 
 ### Welfare State Insiders and Outsiders
