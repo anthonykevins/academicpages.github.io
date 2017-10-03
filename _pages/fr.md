@@ -84,3 +84,23 @@ J’ai assisté à deux cours pédagogiques offerts par le Centre d’enseigneme
 * Les défis de la classe multiculturelle danoise, 2016
   * Ce cours comprend un atelier de quatre heures sur l’approche pédagogique danoise à l’enseignement de travaux dirigés dans un contexte multiculture
 
+
+#Publications
+
+### Livres (avec comité de lecture)
+Anthony Kevins. (2017) *[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)*, Amsterdam University Press. 
+
+### Articles (dans des revues avec comité de lecture))
+Anthony Kevins. (À paraître) [“Dualised Trust?: Risk, social trust, and the welfare state”](https://anthonykevins.github.io/files/Dualised_Trust.pdf), *Socio-Economic Review*.
+
+Anthony Kevins, Alexander Horn, Carsten Jensen, et Kees van Kersbergen. (À paraître) [“Yardsticks of Inequality: Median Voter Preferences for Redistribution in Advanced Democracies”](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf), *Journal of European Social Policy*.
+
+Alexander Horn et Anthony Kevins. (À paraître) [“Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany”](https://anthonykevins.github.io/files/Problem_Pressure.pdf), *Social Science History*.
+
+Anthony Kevins et Stuart Soroka. (OnlineFirst) [“Growing Apart?: Partisan Sorting in Canada, 1992-2015”](https://anthonykevins.github.io/files/Growing_Apart.pdf), *Canadian Journal of Political Science*.
+
+Alexander Horn, Anthony Kevins, Kees van Kersbergen, et Carsten Jensen. (OnlineFirst) [“Research Note: Peeping at the corpus – What is really going on behind the equality and welfare items of the Manifesto project?”](https://anthonykevins.github.io/files/Peeping_Corpus.pdf), *Journal of European Social Policy*.
+
+Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting, et Will Kymlicka. (2016) [“Migration and Welfare State Spending”](https://anthonykevins.github.io/files/Migration_Welfare.pdf), *European Political Science Review*, 8(2): 173-194.
+
+Anthony Kevins. (2015) [“Political Actors and the Extension of Welfare Coverage”](https://anthonykevins.github.io/files/Political_Actors.pdf), *Journal of European Social Policy*, 25(3): 303-315.
