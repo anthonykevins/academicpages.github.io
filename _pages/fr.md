@@ -10,7 +10,7 @@ redirect_from:
 
 [Ma recherche](#ma-recherche) / [Mon enseignement](#mon-enseignement) / [Mes Publications](#mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)<br><br>
 
-# Qui suis-je ?
+## Qui suis-je ?
 
 Je suis chercheur Marie Curie (« Marie Curie Research Fellow ») à l’École de gouvernance de l'université d’Utrecht. Mon projet étudie les préférences de l'opinion publique pour la représentation inégale, cherchant à découvrir quand et pourquoi les citoyens croient que certains groupes sociaux méritent d’avoir une influence étendue ou réduite sur le processus politique.
 
@@ -25,7 +25,7 @@ Vous trouverez davantage de détails sur mes projets actuels et passés ci-desso
 [Haut de page](#version-française)  
 ---
 
-# Ma recherche
+## Ma recherche
 
 Veuillez trouver ci-dessous une présentation de mes projets de recherche actuels et passés. Vous pouvez également télécharger mes publications [ici](#mes-publications).  
 
@@ -56,7 +56,7 @@ Ma recherche sur ce sujet a été publiée récemment dans mon livre *[Expanding
 [Haut de page](#version-française)  
 ---
 
-# Mon enseignement
+## Mon enseignement
 
 Vous trouverez ci-dessous une vue d'ensemble de ma philosophie pédagogique ainsi que mes expériences et ma formation en enseignement.
 
@@ -97,7 +97,7 @@ J’ai assisté à deux cours pédagogiques offerts par le Centre d’enseigneme
 [Haut de page](#version-française)  
 ---
 
-# Mes publications
+## Mes publications
 
 ### Livres (avec comité de lecture)
 Anthony Kevins. (2017) *[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)*, Amsterdam University Press. 
