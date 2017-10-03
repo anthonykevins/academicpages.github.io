@@ -14,7 +14,7 @@ Avant d'occuper mon poste actuel à Utrecht, j'étais professeur adjoint (CDD de
 
 J’ai obtenu mon doctorat au Département de science politique à l’Université McGill, où j’ai travaillé avec Stuart Soroka. À McGill, j’ai exploré le dilemme auquel sont confrontés les partis et syndicats de gauche face aux lacunes des couvertures sociales et à l’austérité, plus particulièrement lorsqu’ils doivent choisir entre deux options problématiques : étendre la couverture sociale à un plus grand nombre en réduisant les « bonnes » allocations prévues pour les inclus, ou maintenir la protection, la couverture et les allocations des inclus aux dépens des exclus.
 
-Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon CV, disponible en français [ici](http://anthonykevins.github.io/files/CV_fr.pdf).
+Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon CV, disponible en français [ici](http://anthonykevins.github.io/files/CV_fr.pdf).<br><br>
 
 
 # Recherche
@@ -43,7 +43,7 @@ Une partie importante de cette recherche est basée sur un sondage original, eff
 
 Qui mérite notre appui collectif ? Constituant une question clé de notre époque, les réponses ont varié radicalement à travers le temps, les pays et les domaines politiques. Alors que d’un côté, plusieurs systèmes de protection sociale se sont caractérisés par des lacunes dans leur couverture, la façon par laquelle les gouvernements ont étendu l’accès aux allocations varie grandement. D'un autre côté, ce processus a été contrebalancé par des efforts pour restreindre l’accès, afin de décourager la dépendance et de limiter les dépenses sociales. Ces changements politiques ont des ramifications importantes sur la pauvreté, l’inégalité et le soutien populaire pour l’État-providence.
 
-Ma recherche sur ce sujet a été publiée récemment dans mon livre *[Expanding Welfare in an Age of Austerity](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)*, paru récemment (2017) chez Amsterdam University Press (disponible en Amérique du Nord chez University of Chicago Press). Cet ouvrage approfondit le dilemme auquel les partis et syndicats de gauche sont confrontés face aux lacunes des couvertures sociales et à l’austérité, lorsqu’ils doivent choisir entre la protection des acquis aux inclus et l’extension de la couverture aux exclus. Il comprend deux comparaisons entre la France et l’Italie (soutenues par plus d’une demi-année de recherche sur le terrain) ainsi qu’une étude quantitative et qualitative de la généralisabilité des résultats. Je constate que des facteurs-clés, normalement associés avec l’Europe du Sud, ont influencé les positions des partis et des politiques directement (par la création d'avantages organisationnels) et indirectement (par le conditionnement de l'opinion publique). Dans l’ensemble, le livre fait avancer les débats sur le rapport entre l’accès à la sécurité sociale et les préférences en matière de politiques sociales, tout en offrant un aperçu des défis réels auxquels sont confrontées les politiques actuelles dans le cadre des programmes d'austérité.
+Ma recherche sur ce sujet a été publiée récemment dans mon livre *[Expanding Welfare in an Age of Austerity](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)*, paru récemment (2017) chez Amsterdam University Press (disponible en Amérique du Nord chez University of Chicago Press). Cet ouvrage approfondit le dilemme auquel les partis et syndicats de gauche sont confrontés face aux lacunes des couvertures sociales et à l’austérité, lorsqu’ils doivent choisir entre la protection des acquis aux inclus et l’extension de la couverture aux exclus. Il comprend deux comparaisons entre la France et l’Italie (soutenues par plus d’une demi-année de recherche sur le terrain) ainsi qu’une étude quantitative et qualitative de la généralisabilité des résultats. Je constate que des facteurs-clés, normalement associés avec l’Europe du Sud, ont influencé les positions des partis et des politiques directement (par la création d'avantages organisationnels) et indirectement (par le conditionnement de l'opinion publique). Dans l’ensemble, le livre fait avancer les débats sur le rapport entre l’accès à la sécurité sociale et les préférences en matière de politiques sociales, tout en offrant un aperçu des défis réels auxquels sont confrontées les politiques actuelles dans le cadre des programmes d'austérité.<br><br>
 
 
 # Enseignement
@@ -82,10 +82,10 @@ J’ai assisté à deux cours pédagogiques offerts par le Centre d’enseigneme
 * Programme de formation d’enseignants pour les professeurs adjoints, 2016-2017
   * Ce programme a consisté en six jours entiers d’ateliers couvrant un éventail de sujets, incluant les méthodes d’enseignement et d’organisation, les compétences de cours magistraux, le « constructive alignment » et les technologies éducatives
 * Les défis de la classe multiculturelle danoise, 2016
-  * Ce cours comprend un atelier de quatre heures sur l’approche pédagogique danoise à l’enseignement de travaux dirigés dans un contexte multiculture
+  * Ce cours comprend un atelier de quatre heures sur l’approche pédagogique danoise à l’enseignement de travaux dirigés dans un contexte multiculture<br><br>
 
 
-#Publications
+# Publications
 
 ### Livres (avec comité de lecture)
 Anthony Kevins. (2017) *[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)*, Amsterdam University Press. 
