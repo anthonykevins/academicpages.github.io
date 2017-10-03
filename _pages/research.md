@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 redirect_from:
   - /research
-urlcolor: blue
 ---
 
 [Utrecht University's](https://www.uu.nl/en/) 
