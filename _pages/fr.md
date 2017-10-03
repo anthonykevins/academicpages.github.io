@@ -6,7 +6,7 @@ redirect_from:
   - /fr
 ---
 
-# Version française<br><br>
+# Version française
 
 **[Ma recherche](#ma-recherche) &emsp; &ensp; [Mon enseignement](#mon-enseignement) &emsp; &ensp; [Mes publications](#mes-publications) &emsp; &ensp; [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf) &emsp; &ensp; [English site](https://anthonykevins.github.io)** <br>
 
