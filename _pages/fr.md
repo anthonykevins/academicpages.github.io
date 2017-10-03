@@ -6,6 +6,8 @@ redirect_from:
   - /fr
 ---
 
+# Version française
+
 [Ma recherche](#ma-recherche) / [Mon enseignement](#mon-enseignement) / [Mes Publications](#mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)<br><br>
 
 # Qui suis-je ?
@@ -18,11 +20,10 @@ Avant d'occuper mon poste actuel à Utrecht, j'étais professeur adjoint (CDD de
 
 J’ai obtenu mon doctorat au Département de science politique à l’Université McGill, où j’ai travaillé avec Stuart Soroka. À McGill, j’ai exploré le dilemme auquel sont confrontés les partis et syndicats de gauche face aux lacunes des couvertures sociales et à l’austérité, plus particulièrement lorsqu’ils doivent choisir entre deux options problématiques : étendre la couverture sociale à un plus grand nombre en réduisant les « bonnes » allocations prévues pour les inclus, ou maintenir la protection, la couverture et les allocations des inclus aux dépens des exclus.
 
-Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon CV, disponible en français [ici](http://anthonykevins.github.io/files/CV_fr.pdf).<br><br>
+Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon CV, disponible en français [ici](http://anthonykevins.github.io/files/CV_fr.pdf).
 
-[Ma recherche](#ma-recherche) / [Mon enseignement](#mon-enseignement) / [Mes Publications](#mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)
+[Haut de page](#version-française)  
 ---
-<br><br>
 
 # Ma recherche
 
@@ -52,9 +53,8 @@ Qui mérite notre appui collectif ? Constituant une question clé de notre époq
 
 Ma recherche sur ce sujet a été publiée récemment dans mon livre *[Expanding Welfare in an Age of Austerity](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)*, paru récemment (2017) chez Amsterdam University Press (disponible en Amérique du Nord chez University of Chicago Press). Cet ouvrage approfondit le dilemme auquel les partis et syndicats de gauche sont confrontés face aux lacunes des couvertures sociales et à l’austérité, lorsqu’ils doivent choisir entre la protection des acquis aux inclus et l’extension de la couverture aux exclus. Il comprend deux comparaisons entre la France et l’Italie (soutenues par plus d’une demi-année de recherche sur le terrain) ainsi qu’une étude quantitative et qualitative de la généralisabilité des résultats. Je constate que des facteurs-clés, normalement associés avec l’Europe du Sud, ont influencé les positions des partis et des politiques directement (par la création d'avantages organisationnels) et indirectement (par le conditionnement de l'opinion publique). Dans l’ensemble, le livre fait avancer les débats sur le rapport entre l’accès à la sécurité sociale et les préférences en matière de politiques sociales, tout en offrant un aperçu des défis réels auxquels sont confrontées les politiques actuelles dans le cadre des programmes d'austérité.<br><br>
 
-[Qui suis-je ?](#qui-suis-je-?) / [Mon enseignement](#mon-enseignement) / [Mes Publications](#mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)
+[Haut de page](#version-française)  
 ---
-<br><br>
 
 # Mon enseignement
 
@@ -94,9 +94,8 @@ J’ai assisté à deux cours pédagogiques offerts par le Centre d’enseigneme
 * Les défis de la classe multiculturelle danoise, 2016
   * Ce cours comprend un atelier de quatre heures sur l’approche pédagogique danoise à l’enseignement de travaux dirigés dans un contexte multiculture<br><br>
 
-[Qui suis-je ?](#qui-suis-je-?) / [Ma recherche](#ma-recherche) / [Mes Publications](#mes-publications) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)
+[Haut de page](#version-française)  
 ---
-<br><br>
 
 # Mes publications
 
@@ -118,6 +117,6 @@ Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting, et Will Kymlicka
 
 Anthony Kevins. (2015) [“Political Actors and the Extension of Welfare Coverage”](https://anthonykevins.github.io/files/Political_Actors.pdf), *Journal of European Social Policy*, 25(3): 303-315.<br><br>
 
-[Qui suis-je ?](#qui-suis-je-?) / [Ma recherche](#ma-recherche) / [Mon Enseignement](#mon-enseignement) / [Mon CV](http://anthonykevins.github.io/files/CV_fr.pdf)
+[Haut de page](#version-française)  
 ---
 
