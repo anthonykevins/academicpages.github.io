@@ -55,8 +55,6 @@ Ma recherche sur ce sujet a été publiée récemment dans mon livre *[Expanding
 
 [Haut de page](#version-française) 
  
----
-
 ## Mon enseignement
 
 Vous trouverez ci-dessous une vue d'ensemble de ma philosophie pédagogique ainsi que mes expériences et ma formation en enseignement.
@@ -97,8 +95,6 @@ J’ai assisté à deux cours pédagogiques offerts par le Centre d’enseigneme
 
 [Haut de page](#version-française) 
  
----
-
 ## Mes publications
 
 ### Livres (avec comité de lecture)
@@ -120,6 +116,4 @@ Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting, et Will Kymlicka
 Anthony Kevins. (2015) [“Political Actors and the Extension of Welfare Coverage”](https://anthonykevins.github.io/files/Political_Actors.pdf), *Journal of European Social Policy*, 25(3): 303-315.<br><br>
 
 [Haut de page](#version-française)  
-
----
 
