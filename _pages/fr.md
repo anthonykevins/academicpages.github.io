@@ -54,11 +54,6 @@ Ma recherche sur ce sujet a été publiée, entre autres, dans mon livre *[Expan
 
 **[Haut de page](#version-française)**<br><br>
 
-<<<<<<< HEAD
-=======
-**[Haut de page](#version-française)**<br><br>
-
->>>>>>> 5c61726ee8d0b4972d6031d2ad39c7ce7bb36a6a
 ## Enseignement
 
 Vous trouverez ci-dessous une vue d'ensemble de ma philosophie pédagogique ainsi que mes expériences et ma formation en enseignement.
