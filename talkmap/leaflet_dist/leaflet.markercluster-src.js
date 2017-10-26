@@ -586,7 +586,7 @@
 			this._map.on('zoomend', this._zoomEnd, this);
 			this._map.on('moveend', this._moveEnd, this);
 
-			if (this._spiderfierOnAdd) { //TODO FIXME: Not sure how to have spiderfier add something on here nicely
+			if (this._spiderfierOnAdd) { //#Doing:0 0 0 0 0 #Done:0 Not sure how to have spiderfier add something on here nicely
 				this._spiderfierOnAdd();
 			}
 
@@ -608,7 +608,7 @@
 			//In case we are in a cluster animation
 			this._map._mapPane.className = this._map._mapPane.className.replace(' leaflet-cluster-anim', '');
 
-			if (this._spiderfierOnRemove) { //TODO FIXME: Not sure how to have spiderfier add something on here nicely
+			if (this._spiderfierOnRemove) { 
 				this._spiderfierOnRemove();
 			}
 
@@ -1182,7 +1182,7 @@
 					}
 
 					//Remove all markers that aren't visible any more
-					//TODO: Do we actually need to do this on the higher levels too?
+					//#Doing:0 Do we actually need to do this on the higher levels too?
 					for (i = markers.length - 1; i >= 0; i--) {
 						m = markers[i];
 						if (!bounds.contains(m._latlng)) {
@@ -1196,7 +1196,6 @@
 
 				//Update opacities
 				this._topClusterLevel._recursivelyBecomeVisible(bounds, newZoomLevel);
-				//TODO Maybe? Update markers in _recursivelyBecomeVisible
 				fg.eachLayer(function (n) {
 					if (!(n instanceof L.MarkerCluster) && n._icon) {
 						n.clusterShow();
@@ -1276,7 +1275,6 @@
 			this._forceLayout();
 			cluster._recursivelyBecomeVisible(bounds, newZoomLevel);
 
-			//TODO: Maybe use the transition timing stuff to make this more reliable
 			//When the animations are done, tidy up
 			this._enqueue(function () {
 
@@ -1570,11 +1568,10 @@
 				function (c) {
 					c._recursivelyAnimateChildrenIn(bounds, c._group._map.latLngToLayerPoint(c.getLatLng()).round(), previousZoomLevel);
 
-					//TODO: depthToAnimateIn affects _isSingleParent, if there is a multizoom we may/may not be.
 					//As a hack we only do a animation free zoom on a single level zoom, if someone does multiple levels then we always animate
 					if (c._isSingleParent() && previousZoomLevel - 1 === newZoomLevel) {
 						c.clusterShow();
-						c._recursivelyRemoveChildrenFromMap(bounds, previousZoomLevel); //Immediately remove our children as we are replacing them. TODO previousBounds not bounds
+						c._recursivelyRemoveChildrenFromMap(bounds, previousZoomLevel); 
 					} else {
 						c.clusterHide();
 					}
@@ -1710,7 +1707,6 @@
 					runAtBottomLevel(this);
 				}
 
-				//TODO: This loop is almost the same as above
 				if (zoomLevelToStop > zoom) {
 					for (i = childClusters.length - 1; i >= 0; i--) {
 						c = childClusters[i];
@@ -2073,7 +2069,6 @@
 			this._group._unspiderfy();
 			this._group._spiderfied = this;
 
-			//TODO Maybe: childMarkers order by distance to center
 
 			if (childMarkers.length >= this._circleSpiralSwitchover) {
 				positions = this._generatePointsSpiral(childMarkers.length, center);
