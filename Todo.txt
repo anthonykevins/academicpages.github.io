@@ -1,0 +1,6 @@
+#DOING:30 2015-02-09 This task was created on 2015-02-09
+#TODO:10 x 2015-02-09 2015-02-08 This task was created on 2015-02-08 and completed on 2015-02-09
+#TODO:0 This task is due on 2015-02-09
+#DONE:20 This task has a *madjs* tag +madjs
+
+#TODO:90 This task has a *madjs* context @madjs
