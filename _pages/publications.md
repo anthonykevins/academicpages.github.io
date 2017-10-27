@@ -6,11 +6,11 @@ redirect_from:
   - /publications
 ---
 
-# Books
+### Books
 
 Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)_, Amsterdam University Press.
 
-# Journal Articles (Peer-Reviewed)
+### Journal Articles (Peer-Reviewed)
 
 Anthony Kevins. (Forthcoming) ["Dualised Trust?: Risk, social trust, and the welfare state"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_.
 
