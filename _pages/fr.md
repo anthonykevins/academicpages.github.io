@@ -8,7 +8,7 @@ redirect_from:
 
 # Version française
 
-**[Recherche](#recherche) / [Enseignement](#enseignement) / [Publications](#publications) / [CV](http://anthonykevins.github.io/files/CV_fr.pdf) / [English](https://anthonykevins.github.io)**<br>
+**[Recherche](#recherche) &ensp; / &ensp; [Enseignement](#enseignement) &ensp; / &ensp; [Publications](#publications)  &ensp; / &ensp; [CV](http://anthonykevins.github.io/files/CV_fr.pdf) &ensp; / &ensp; [English](https://anthonykevins.github.io)** <br>
 
 ## Qui suis-je ?
 
