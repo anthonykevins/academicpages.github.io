@@ -115,7 +115,7 @@ J'ai assisté à deux cours pédagogiques offerts par le Centre d'enseignement e
 
 Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)_, Amsterdam University Press.
 
-### Articles (dans des revues avec comité de lecture))
+### Articles (dans des revues avec comité de lecture)
 
 Anthony Kevins. (À paraître) ["Dualised Trust?: Risk, social trust, and the welfare state"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_.
 
