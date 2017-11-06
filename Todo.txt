@@ -1,1 +1,6 @@
-#TODO:1 Prepare per-wave outsiderness id:5
+#TODO:1 Who should have a say - experiment
+#TODO:1 Income experiment
+#TODO:1 Care work
+#TODO:2 German democratic attitudes data
+#TODO:3 JSP R&R
+#TODO:4 Prepare per-wave outsiderness
