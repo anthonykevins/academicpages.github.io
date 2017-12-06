@@ -41,5 +41,10 @@
     "pedantic": false,
     "smartLists": true,
     "langPrefix": "language-"
+  },
+  "sync": {
+    "id": "59f31b6164dbf35aace03189",
+    "name": "anthonykevins/anthonykevins.github.io",
+    "useImdoneioForPriority": true
   }
 }
