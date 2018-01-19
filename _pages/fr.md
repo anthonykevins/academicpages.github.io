@@ -113,7 +113,7 @@ Anthony Kevins, Alexander Horn, Carsten Jensen, et Kees van Kersbergen. (À para
 
 Alexander Horn et Anthony Kevins. (À paraître) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_.
 
-Anthony Kevins. (OnlineFirst) ["Dualised Trust?: Risk, social trust, and the welfare state"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
+Anthony Kevins. (OnlineFirst) ["Dualized Trust: Risk, social trust, and the welfare state"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
 Anthony Kevins et Stuart Soroka. (OnlineFirst) ["Growing Apart?: Partisan Sorting in Canada, 1992-2015"](https://anthonykevins.github.io/files/Growing_Apart.pdf), _Canadian Journal of Political Science_. [doi.org/10.1017/S0008423917000713](https://doi.org/10.1017/S0008423917000713)
 
