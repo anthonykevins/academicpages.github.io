@@ -24,4 +24,4 @@ Alexander Horn, Anthony Kevins, Kees van Kersbergen, and Carsten Jensen. (2017) 
 
 Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting, and Will Kymlicka. (2016) ["Migration and Welfare State Spending"](https://anthonykevins.github.io/files/Migration_Welfare.pdf), _European Political Science Review_, 8(2): 173-194. [doi.org/10.1017/S1755773915000041](https://doi.org/10.1017/S1755773915000041)
 
-Anthony Kevins. (2015) ["Political Actors and the Extension of Welfare Coverage"](https://anthonykevins.github.io/files/Political_Actors.pdf), _Journal of European Social Policy_, 25(3): 303-315. <span style="color:black"> [doi.org/10.1177/0958928715588705](https://doi.org/10.1177/0958928715588705) </span>
+Anthony Kevins. (2015) ["Political Actors and the Extension of Welfare Coverage"](https://anthonykevins.github.io/files/Political_Actors.pdf), _Journal of European Social Policy_, 25(3): 303-315. [<span style="color:black"> doi.org/10.1177/0958928715588705 </span>](https://doi.org/10.1177/0958928715588705)
