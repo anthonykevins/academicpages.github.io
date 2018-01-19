@@ -117,7 +117,7 @@ Anthony Kevins. (OnlineFirst) ["Dualised Trust?: Risk, social trust, and the wel
 
 Anthony Kevins et Stuart Soroka. (OnlineFirst) ["Growing Apart?: Partisan Sorting in Canada, 1992-2015"](https://anthonykevins.github.io/files/Growing_Apart.pdf), _Canadian Journal of Political Science_. [doi.org/10.1017/S0008423917000713](https://doi.org/10.1017/S0008423917000713)
 
-Alexander Horn, Anthony Kevins, Kees van Kersbergen, et Carsten Jensen. (OnlineFirst) ["Research Note: Peeping at the corpus – What is really going on behind the equality and welfare items of the Manifesto project?"](https://anthonykevins.github.io/files/Peeping_Corpus.pdf), _Journal of European Social Policy_. [doi.org/10.1177/0958928716688263](https://doi.org/10.1177/0958928716688263)
+Alexander Horn, Anthony Kevins, Kees van Kersbergen, et Carsten Jensen. (OnlineFirst) ["Research Note: Peeping at the corpus – What is really going on behind the equality and welfare items of the Manifesto project?"](https://anthonykevins.github.io/files/Peeping_Corpus.pdf), _Journal of European Social Policy_, 27(5) : 403-416. [doi.org/10.1177/0958928716688263](https://doi.org/10.1177/0958928716688263)
 
 Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting, et Will Kymlicka. (2016) ["Migration and Welfare State Spending"](https://anthonykevins.github.io/files/Migration_Welfare.pdf), _European Political Science Review_, 8(2): 173-194. [doi.org/10.1017/S1755773915000041](https://doi.org/10.1017/S1755773915000041)
 
