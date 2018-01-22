@@ -1,6 +1,6 @@
-#TODO:1 Who should have a say - experiment id:7
 #TODO:1 Experiment on Seonghui's survey id:9
-#TODO:2 Look at new ESS round id:9
-#TODO:2 German democratic attitudes data id:10
+#TODO:2 Who should have a say - experiment - Look back at unrep hypotheses; then look at a single-country survey study in a high ranking journal to see what types of figures/analysis they did, then replicate some of it with the German data; https://github.com/HertieDataScience/Examples/blob/master/PaperWithRegressionTables/PDF_PaperWithRegressionTables.Rmd; Could the CES be used for the unequal rep project? Questions about minority-majority influence; Look up political losing literature
 #TODO:3 P&P R&R id:11
-#TODO:4 EPS Dataset paper (after other papers are done) id:8
+#TODO:4 Look at German panel data: make index using group influence questions; Does the it have questions about immigrants? Could use it to get at the effect of labour market experiences on attitudes toward immigrants.
+#TODO:5 EPS Dataset paper (after other papers are done) id:8
+#TODO:5 Look at new ESS round id:9
