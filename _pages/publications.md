@@ -12,9 +12,9 @@ Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
-Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Forthcoming) ["Yardsticks of Inequality: Median Voter Preferences for Redistribution in Advanced Democracies"](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf), _Journal of European Social Policy_.
-
 Alexander Horn and Anthony Kevins. (Forthcoming) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_.
+
+Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Online First) ["Yardsticks of Inequality: Median Voter Preferences for Redistribution in Advanced Democracies"](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf), _Journal of European Social Policy_. [doi.org/10.1177/0958928717753579](https://doi.org/10.1177/0958928717753579)
 
 Anthony Kevins. (Online First) ["Dualized Trust: Risk, social trust, and the welfare state"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
