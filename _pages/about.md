@@ -4,14 +4,14 @@ title: About me
 excerpt: >-
   I am a Marie Curie Research Fellow at Utrecht University's School of
   Governance. My research is focused on the interplay between public opinion and
-  policy, in particular regarding marginalised groups and the welfare state.
+  policy, with a special focus on marginalised groups and the welfare state.
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-My research is focused on the interplay between public opinion and policy, in particular regarding marginalised groups and the welfare state. Some of the questions I've explored include: What factors shape the relationship between societal insiders and outsiders? How can we best understand social policy preferences? And what drives social programme reform?
+My research is focused on the interplay between public opinion and policy, with a special focus on marginalised groups and the welfare state. Some of the questions I've explored include: What factors shape the relationship between societal insiders and outsiders? How can we best understand social policy preferences? And what drives social programme reform?
 
 I am currently a Marie Curie Research Fellow at [Utrecht University's](https://www.uu.nl/en/) [School of Governance](https://www.uu.nl/en/organisation/utrecht-university-school-of-governance). My project examines preferences for unequal representation, seeking to uncover when and why citizens believe that certain societal groups deserve to have their voices amplified or ignored in the policy process.
 
