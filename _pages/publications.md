@@ -6,7 +6,7 @@ redirect_from:
   - /publications
 ---
 
-### Books
+### Books (Peer-Reviewed)
 
 Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)_, Amsterdam University Press.
 
