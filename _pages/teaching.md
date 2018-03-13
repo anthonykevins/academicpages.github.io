@@ -32,7 +32,7 @@ My teaching experience has included undergraduate and graduate course developmen
 
 - Instructor, "Pragmatism and Politics"
   - Overview: Master's Seminar, Aarhus University, Spring 2015
-  - Course Description: An examiniation of the challenges underlying the balance between technocracy and democracy
+  - Course Description: An examination of the challenges underlying the balance between technocracy and democracy
 
 - Instructor, "Politics: Contemporary Europe"
   - Overview: Bachelor's Course, McGill University, Summer & Fall 2013
