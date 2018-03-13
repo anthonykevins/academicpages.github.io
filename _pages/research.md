@@ -17,8 +17,8 @@ Funded by a Marie Curie Individual Fellowship, this project investigates attitud
 ### Universalism and the Welfare State
 
 How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Through my  affiliation with the UNIWEL (Universalism and the Welfare State) project at Aarhus University, I have investigated various topics related to this theme. This has included papers researching:
--   [The attitudinal effects of the structure of inequality across the income spectrum](https://doi.org/10.1177/0958928717753579)
--   [The equality and welfare content of party manifestoes](https://doi.org/10.1177/0958928716688263)
+-   [The attitudinal effects of the structure of inequality across the income spectrum](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)
+-   [The equality and welfare content of party manifestoes](https://anthonykevins.github.io/files/Peeping_Corpus.pdf)
 -   [The implications of class identity for social policy preferences](https://anthonykevins.github.io/files/Illusion_Class.pdf)
 
 Much of this research has been rooted in an original survey fielded in the US and nine Western European countries. These unique surveys examine social policy preferences from a variety of perspectives, including as they relate to perceptions of fairness, policy trade-offs, inequality, and immigration.
@@ -26,8 +26,8 @@ Much of this research has been rooted in an original survey fielded in the US an
 ### Insiders and Outsiders
 
 What institutional factors shape relations between insiders and outsiders? Several of my studies explore the division between groups that have historically been protected by social policy and labour market regulations (i.e. insiders) and those we have excluded from that protection (i.e. outsiders). Some of the topics I have addressed with this research include:
--   [The drivers of social assistance reforms](https://doi.org/10.1177/0958928715588705)
--   [The impact of the insider/outsider divide on generalised trust](https://doi.org/10.1093/ser/mwx064)
+-   [The drivers of social assistance reforms](https://anthonykevins.github.io/files/Political_Actors.pdf)
+-   [The impact of the insider/outsider divide on generalised trust](https://anthonykevins.github.io/files/Dualised_Trust.pdf)
 -   [The institutional and political determinants of coverage extension (book)](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)
 
-While my monograph is paywalled, you can find the first chapter [here](https://anthonykevins.github.io/files/Expanding_Welfare.pdf). Overall, the book concentrates on the dilemma leftist parties and unions face when confronted with coverage gaps under austerity, as they choose between maintaining the benefit levels of insiders and extending coverage to outsiders. It does so by starting from two sets of French-Italian comparisons (complemented by over half a year of field research) and building to both quantitative and qualitative tests of generalisability. I conclude that the role of certain key institutional features has been underemphasised in the literature. These (typically Southern European) factors shape party stances and policy outcomes both directly – through creating organisational incentives – and indirectly – through conditioning public opinion. 
+While my monograph is not open access, you can find the first chapter [here](https://anthonykevins.github.io/files/Expanding_Welfare.pdf). Overall, the book concentrates on the dilemma leftist parties and unions face when confronted with coverage gaps under austerity, as they choose between maintaining the benefit levels of insiders and extending coverage to outsiders. It does so by starting from two sets of French-Italian comparisons (complemented by over half a year of field research) and building to both quantitative and qualitative tests of generalisability. I conclude that the role of certain key institutional features has been underemphasised in the literature. These (typically Southern European) factors shape party stances and policy outcomes both directly – through creating organisational incentives – and indirectly – through conditioning public opinion. 
