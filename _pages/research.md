@@ -6,7 +6,7 @@ redirect_from:
   - /research
 ---
 
-Below you will find an overview of my ongoing and past research projects. You can also find my full CV [here](https://anthonykevins.github.io/files/CV.pdf).
+Below you will find an overview of my ongoing and past research projects. A complete list of my published research can be found [here](https://anthonykevins.github.io/publications/) or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
 
 ### Who Should Have a Say? Preferences for Differentiated Representation
 
@@ -30,4 +30,4 @@ What institutional factors shape relations between insiders and outsiders? Sever
 -   [The impact of the insider/outsider divide on generalised trust](https://anthonykevins.github.io/files/Dualised_Trust.pdf)
 -   [The institutional and political determinants of coverage extension (book)](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)
 
-While my monograph is not open access, you can find the first chapter [here](https://anthonykevins.github.io/files/Expanding_Welfare.pdf). Overall, the book concentrates on the dilemma leftist parties and unions face when confronted with coverage gaps under austerity, as they choose between maintaining the benefit levels of insiders and extending coverage to outsiders. It does so by starting from two sets of French-Italian comparisons (complemented by over half a year of field research) and building to both quantitative and qualitative tests of generalisability. I conclude that the role of certain key institutional features has been underemphasised in the literature. These (typically Southern European) factors shape party stances and policy outcomes both directly – through creating organisational incentives – and indirectly – through conditioning public opinion. 
+While my monograph is not open access, you can find the first chapter [here](https://anthonykevins.github.io/files/Expanding_Welfare.pdf). Overall, the book concentrates on the dilemma leftist parties and unions face when confronted with coverage gaps under austerity, as they choose between maintaining the benefit levels of insiders and extending coverage to outsiders. It does so by starting from two sets of French-Italian comparisons (complemented by over half a year of field research) and building to both quantitative and qualitative tests of generalisability. I conclude that the role of certain key institutional features has been underemphasised in the literature. These (typically Southern European) factors shape party stances and policy outcomes both directly – through creating organisational incentives – and indirectly – through conditioning public opinion.
