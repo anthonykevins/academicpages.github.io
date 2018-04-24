@@ -12,6 +12,8 @@ Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
+Carsten Jensen and Anthony Kevins. (Forthcoming) ["Numbers and Attitudes Towards Welfare State Generosity"](https://anthonykevins.github.io/files/Numbers_and_Generosity.pdf), _Political Studies_.
+
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Forthcoming) ["The Illusion of Class in Welfare State Politics?"](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_.
 
 Alexander Horn and Anthony Kevins. (Forthcoming) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_.
