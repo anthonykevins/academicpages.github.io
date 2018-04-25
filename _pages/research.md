@@ -6,7 +6,7 @@ redirect_from:
   - /research
 ---
 
-Below you will find an overview of my ongoing and past research projects. A complete list of my published research can be found [here](https://anthonykevins.github.io/publications/) or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
+Below you will find an overview of my ongoing and past research projects, as well as a sample of my publications on each theme. A complete list of my published research can be found [here](https://anthonykevins.github.io/publications/) (which includes open-access copies of my articles) or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
 
 ### Who Should Have a Say? Preferences for Differentiated Representation
 
@@ -16,7 +16,7 @@ Funded by a Marie Curie Individual Fellowship, this project investigates attitud
 
 ### Universalism and the Welfare State
 
-How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Through my  affiliation with the UNIWEL (Universalism and the Welfare State) project at Aarhus University, I have investigated various topics related to this theme. This has included papers researching:
+How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Through my  affiliation with the UNIWEL (Universalism and the Welfare State) project at Aarhus University, I have investigated various topics related to this theme. My published work on the topic has examined:
 -   [The attitudinal effects of the structure of inequality across the income spectrum](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)
 -   [The equality and welfare content of party manifestoes](https://anthonykevins.github.io/files/Peeping_Corpus.pdf)
 -   [The implications of class identity for social policy preferences](https://anthonykevins.github.io/files/Illusion_Class.pdf)

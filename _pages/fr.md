@@ -20,14 +20,14 @@ Avant d'occuper mon poste actuel à Utrecht, j'étais professeur adjoint (CDD de
 
 J'ai obtenu mon doctorat au Département de science politique à l'Université McGill, où j'ai travaillé avec Stuart Soroka. À McGill, j'ai exploré le dilemme auquel sont confrontés les partis et syndicats de gauche face aux lacunes des couvertures sociales et à l'austérité, plus particulièrement lorsqu'ils doivent choisir entre deux options problématiques : étendre la couverture sociale à un plus grand nombre en réduisant les « bonnes » allocations prévues pour les inclus, ou maintenir la protection, la couverture et les allocations des inclus aux dépens des exclus.
 
-Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon CV, disponible en français [ici](http://anthonykevins.github.io/files/CV_fr.pdf).
+Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon CV, disponible en français [ici](http://anthonykevins.github.io/files/CV_fr.pdf). Vous pouvez également télécharger (gratuitement) mes publications [ici](#mes-publications).
 
 **[Haut de page](#version-française)**<br>
 <br>
 
 ## Recherche
 
-Veuillez trouver ci-dessous une présentation de mes projets de recherche actuels et passés. Vous pouvez également télécharger mes publications [ici](#mes-publications).
+Veuillez trouver ci-dessous une présentation de mes projets de recherche actuels et passés.
 
 ### Qui devrait avoir un mot à dire ? Préférences pour la représentation inégale
 
@@ -96,7 +96,7 @@ J'ai assisté à deux cours pédagogiques offerts par le Centre d'enseignement e
   - Ce programme a consisté en six jours entiers d'ateliers couvrant un éventail de sujets, incluant les méthodes d'enseignement et d'organisation, les compétences de cours magistraux, le « constructive alignment » et les technologies éducatives
 
 - Les défis de la classe multiculturelle danoise, 2016
-  - Ce cours comprend un atelier de quatre heures sur l'approche pédagogique danoise à l'enseignement de travaux dirigés dans un contexte multiculture
+  - Ce cours comprend un atelier de quatre heures sur l'approche pédagogique danoise à l'enseignement de travaux dirigés dans un contexte multiculturel
 
 **[Haut de page](#version-française)**<br>
 <br>
