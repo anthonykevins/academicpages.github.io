@@ -8,7 +8,7 @@ redirect_from:
 
 # Version française
 
-**[Recherche](#recherche) &ensp; / &ensp; [Enseignement](#enseignement) &ensp; / &ensp; [Publications](#publications)  &ensp; / &ensp; [CV](http://anthonykevins.github.io/files/CV_fr.pdf) &ensp; / &ensp; [English](https://anthonykevins.github.io)** <br>
+**[Recherche](#recherche)   /   [Enseignement](#enseignement)   /   [Publications](#publications)    /   [CV](http://anthonykevins.github.io/files/CV_fr.pdf)   /   [English](https://anthonykevins.github.io)** <br>
 
 ## Qui suis-je ?
 
@@ -20,7 +20,7 @@ Avant d'occuper mon poste actuel à Utrecht, j'étais professeur adjoint (CDD de
 
 J'ai obtenu mon doctorat au Département de science politique à l'Université McGill, où j'ai travaillé avec Stuart Soroka. À McGill, j'ai exploré le dilemme auquel sont confrontés les partis et syndicats de gauche face aux lacunes des couvertures sociales et à l'austérité, plus particulièrement lorsqu'ils doivent choisir entre deux options problématiques : étendre la couverture sociale à un plus grand nombre en réduisant les « bonnes » allocations prévues pour les inclus, ou maintenir la protection, la couverture et les allocations des inclus aux dépens des exclus.
 
-Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon CV, disponible en français [ici](http://anthonykevins.github.io/files/CV_fr.pdf). Vous pouvez également télécharger (gratuitement) mes publications [ici](#mes-publications).
+Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon [CV](http://anthonykevins.github.io/files/CV_fr.pdf). Vous pouvez également télécharger (gratuitement) mes publications [ici](#publications).
 
 **[Haut de page](#version-française)**<br>
 <br>
@@ -38,11 +38,12 @@ Financé par une bourse Marie Curie, ce projet explore donc les attitudes envers
 ### L'universalisme et l'État-providence
 
 À quel point les citoyens sont-ils engagés envers l'universalisme, la redistribution et l'État-providence ? Quels sont les facteurs qui influencent cet engagement ? Par mon affiliation au projet UNIWEL (universalism and the welfare state) à l'université d'Aarhus, je me suis penché sur divers sujets liés à ce thème, incluant :
-- L'effet de la structure d'inégalité sur les préférences de redistribution à travers l'échelle de revenus
-- Le contenu des programmes de partis sur l'égalité et l'État-providence
-- La relation réciproque entre les réformes de « workfare » et l'opinion publique vis-à-vis des politiques sociales
-- Les motivations imputées par les gens aux autres qui sont pour ou contre la redistribution
-- Les conséquences de l'identité de classe sur les préférences politiques
+
+-   L'effet de la structure d'inégalité sur les préférences de redistribution à travers l'échelle de revenus
+-   Le contenu des programmes de partis sur l'égalité et l'État-providence
+-   La relation réciproque entre les réformes de « workfare » et l'opinion publique vis-à-vis des politiques sociales
+-   Les motivations imputées par les gens aux autres qui sont pour ou contre la redistribution
+-   Les conséquences de l'identité de classe sur les préférences politiques
 
 Une partie importante de cette recherche est basée sur un sondage original, effectué aux États-Unis et dans neuf pays d'Europe occidentale. Cette enquête unique examine les préférences en matière de politique sociale selon différentes perspectives, y compris les préférences liées à la perception d'équité, d'immigration et de compromis de politique fiscale.
 
@@ -69,34 +70,39 @@ En tant que professeur, je facilite ce développement en encourageant un engagem
 
 Mon expérience d'enseignement inclut le développement et l'enseignement de cours de premier et deuxième cycle. Le format de ces cours varie, allant de petits séminaires de travail dirigé jusqu'aux cours magistraux de quelques centaines d'étudiants. Les matières enseignées incluent à la fois des sujets politiques et méthodologiques.
 
-- Co-enseignant, « Political Institutions »
-  - Cours de base de premier cycle, Université d'Aarhus, printemps 2016 et 2017
-  - Résumé : cours portant sur l'institutionnalisme et les institutions domestiques et supranationales, avec un accent particulier mis sur l'Union européenne
+-   Co-enseignant, « Political Institutions »
 
-- Co-enseignant, « Social Science Methods for Journalists »
-  - Cours de base de deuxième cycle, Université d'Aarhus, automne 2016
-  - Résumé : introduction aux méthodologies qualitatives et quantitatives pour les étudiants de programmes interdisciplinaires
+    -   Cours de base de premier cycle, Université d'Aarhus, printemps 2016 et 2017
+    -   Résumé : cours portant sur l'institutionnalisme et les institutions domestiques et supranationales, avec un accent particulier mis sur l'Union européenne
 
-- Enseignant, « Democracy and Representation »
-  - Cours de deuxième cycle, Université d'Aarhus, automne 2015
-  - Résumé : une exploration des liens entre l'opinion publique et le processus politique
+-   Co-enseignant, « Social Science Methods for Journalists »
 
-- Enseignant, « Pragmatism and Politics »
-  - Cours de deuxième cycle, Université d'Aarhus, printemps 2015
-  - Résumé : une étude des défis sous-jacents à l'équilibre entre la technocratie et la démocratie
+    -   Cours de base de deuxième cycle, Université d'Aarhus, automne 2016
+    -   Résumé : introduction aux méthodologies qualitatives et quantitatives pour les étudiants de programmes interdisciplinaires
 
-- Enseignant, « Politics: Contemporary Europe »
-  - Résumé : un aperçu des typologies de l'États-providence, du capitalisme et des régimes de citoyenneté, ainsi qu'un examen des changements de ces systèmes
+-   Enseignant, « Democracy and Representation »
+
+    -   Cours de deuxième cycle, Université d'Aarhus, automne 2015
+    -   Résumé : une exploration des liens entre l'opinion publique et le processus politique
+
+-   Enseignant, « Pragmatism and Politics »
+
+    -   Cours de deuxième cycle, Université d'Aarhus, printemps 2015
+    -   Résumé : une étude des défis sous-jacents à l'équilibre entre la technocratie et la démocratie
+
+-   Enseignant, « Politics: Contemporary Europe »
+    -   Résumé : un aperçu des typologies de l'États-providence, du capitalisme et des régimes de citoyenneté, ainsi qu'un examen des changements de ces systèmes
 
 ### Formation pédagogique
 
 J'ai assisté à deux cours pédagogiques offerts par le Centre d'enseignement et d'apprentissage de l'université d'Aarhus :
 
-- Programme de formation d'enseignants pour les professeurs adjoints, 2016-2017
-  - Ce programme a consisté en six jours entiers d'ateliers couvrant un éventail de sujets, incluant les méthodes d'enseignement et d'organisation, les compétences de cours magistraux, le « constructive alignment » et les technologies éducatives
+-   Programme de formation d'enseignants pour les professeurs adjoints, 2016-2017
 
-- Les défis de la classe multiculturelle danoise, 2016
-  - Ce cours comprend un atelier de quatre heures sur l'approche pédagogique danoise à l'enseignement de travaux dirigés dans un contexte multiculturel
+    -   Ce programme a consisté en six jours entiers d'ateliers couvrant un éventail de sujets, incluant les méthodes d'enseignement et d'organisation, les compétences de cours magistraux, le « constructive alignment » et les technologies éducatives
+
+-   Les défis de la classe multiculturelle danoise, 2016
+    -   Ce cours comprend un atelier de quatre heures sur l'approche pédagogique danoise à l'enseignement de travaux dirigés dans un contexte multiculturel
 
 **[Haut de page](#version-française)**<br>
 <br>
