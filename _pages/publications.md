@@ -16,9 +16,9 @@ Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Pr
 
 Carsten Jensen and Anthony Kevins. (Forthcoming) ["Numbers and Attitudes Towards Welfare State Generosity"](https://anthonykevins.github.io/files/Numbers_and_Generosity.pdf), _Political Studies_.
 
-Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Forthcoming) ["The Illusion of Class in Welfare State Politics?"](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_.
-
 Alexander Horn and Anthony Kevins. (Forthcoming) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_.
+
+Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Online First) ["The Illusion of Class in Welfare State Politics?"](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_. [dx.doi.org/10.1017/S0047279418000247](dx.doi.org/10.1017/S0047279418000247)
 
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Online First) ["Yardsticks of Inequality: Median Voter Preferences for Redistribution in Advanced Democracies"](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf), _Journal of European Social Policy_. [doi.org/10.1177/0958928717753579](https://doi.org/10.1177/0958928717753579)
 
