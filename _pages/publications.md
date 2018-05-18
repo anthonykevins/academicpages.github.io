@@ -20,7 +20,7 @@ Alexander Horn and Anthony Kevins. (Forthcoming) ["Problem Pressure and Social P
 
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Online First) ["The Illusion of Class in Welfare State Politics?"](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_. [dx.doi.org/10.1017/S0047279418000247](https://dx.doi.org/10.1017/S0047279418000247)
 
-Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Online First) ["Yardsticks of Inequality: Median Voter Preferences for Redistribution in Advanced Democracies"](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf), _Journal of European Social Policy_. [doi.org/10.1177/0958928717753579](https://doi.org/10.1177/0958928717753579)
+Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Online First) ["Yardsticks of Inequality: Preferences for Redistribution in Advanced Democracies"](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf), _Journal of European Social Policy_. [doi.org/10.1177/0958928717753579](https://doi.org/10.1177/0958928717753579)
 
 Anthony Kevins. (Online First) ["Dualized Trust: Risk, social trust, and the welfare state"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
