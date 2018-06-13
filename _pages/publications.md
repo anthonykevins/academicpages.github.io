@@ -14,7 +14,7 @@ Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
-Alexander Horn and Anthony Kevins. (Forthcoming) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_.
+Alexander Horn and Anthony Kevins. (Online First) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_. [doi.org/10.1017/ssh.2018.13](https://doi.org/10.1017/ssh.2018.13)
 
 Carsten Jensen and Anthony Kevins. (Online First) ["Numbers and Attitudes Towards Welfare State Generosity"](https://anthonykevins.github.io/files/Numbers_and_Generosity.pdf), _Political Studies_. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)
 
