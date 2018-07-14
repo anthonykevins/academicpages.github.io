@@ -1,5 +1,5 @@
-#TODO:1 Who should have a say - experiment - Look back at unrep hypotheses; then look at a single-country survey study in a high ranking journal to see what types of figures/analysis they did, then replicate some of it with the German data; Could the CES be used for the unequal rep project? Questions about minority-majority influence; Look up political losing literature
-#TODO:3 Look at German panel data (updated): make index using group influence questions; Does the it have questions about immigrants? Could use it to get at the effect of labour market experiences on attitudes toward immigrants.
-#TODO:4 EPS Dataset paper (after other papers are done) id:8
-#TODO:5 Look at new ESS round id:9
-#TODO:5 Ask Barbara about Vidi application (fall) - worth it to apply without position? 
+#TODO: Who should have a say - experiment - Look back at unrep hypotheses; then look at a single-country survey study in a high ranking journal to see what types of figures/analysis they did, then replicate some of it with the German data; Could the CES be used for the unequal rep project? Questions about minority-majority influence; Look up political losing literature id:219
+#TODO: Look at German panel data (updated): make index using group influence questions; Does the it have questions about immigrants? Could use it to get at the effect of labour market experiences on attitudes toward immigrants. id:220
+#TODO: EPS Dataset paper (after other papers are done) id:8
+#TODO: Look at new ESS round id:9
+#TODO: Ask Barbara about Vidi application (fall) - worth it to apply without position? id:221
