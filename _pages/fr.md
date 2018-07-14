@@ -76,26 +76,26 @@ En tant que professeur, je facilite ce développement en encourageant un engagem
 
 Mon expérience d'enseignement inclut le développement et l'enseignement de cours de premier et deuxième cycle, souvent dans des contextes multidisciplinaires. Le format de mes cours varie, allant de petits séminaires de travail dirigé jusqu'aux cours magistraux de quelques centaines d'étudiants. Les matières enseignées incluent à la fois des sujets politiques et méthodologiques.
 
-$\circ$ Co-enseignant, « Political Institutions »
+:heavy_minus_sign: « Political Institutions »
 -   Cours de base de premier cycle, Université d'Aarhus, printemps 2016 et 2017
 -   Résumé : cours portant sur l'institutionnalisme et les institutions domestiques et supranationales, avec un accent particulier mis sur l'Union européenne
 
-$\circ$ Co-enseignant, « Social Science Methods for Journalists »
+:heavy_minus_sign: Co-enseignant, « Social Science Methods for Journalists »
 
 -   Cours de base de deuxième cycle, Université d'Aarhus, automne 2016
 -   Résumé : introduction aux méthodologies qualitatives et quantitatives pour les étudiants d'un programme interdisciplinaire
 
-$\circ$ Enseignant, « Democracy and Representation »
+:heavy_minus_sign: Enseignant, « Democracy and Representation »
 
 -   Cours de deuxième cycle, Université d'Aarhus, automne 2015
 -   Résumé : une exploration des liens entre l'opinion publique et le processus politique
 
-$\circ$ Enseignant, « Pragmatism and Politics »
+:heavy_minus_sign: Enseignant, « Pragmatism and Politics »
 
 -   Cours de deuxième cycle, Université d'Aarhus, printemps 2015
 -   Résumé : une étude des défis sous-jacents à l'équilibre entre la technocratie et la démocratie
 
-$\circ$ Enseignant, « Politics: Contemporary Europe »
+:heavy_minus_sign: Enseignant, « Politics: Contemporary Europe »
 -   Cours de premier cycle, Université McGill, été et automne 2013
 -   Résumé : un aperçu des typologies de l'États-providence, du capitalisme et des régimes de citoyenneté, ainsi que l'impact de l'Union européenne sur les politiques dans ces domaines
 
@@ -103,11 +103,11 @@ $\circ$ Enseignant, « Politics: Contemporary Europe »
 
 J’ai suivi deux formations pédagogiques offertes par le Centre d’enseignement et d’apprentissage de l’Université d’Aarhus :
 
-$\circ$ Programme de formation d'enseignants pour les professeurs adjoints, 2016-2017
+:heavy_minus_sign: Programme de formation d'enseignants pour les professeurs adjoints, 2016-2017
 
 -   Ce programme consistait à six jours complets d’ateliers couvrant un éventail de sujets, incluant les méthodes d’enseignement et d’organisation, les compétences reliées aux cours magistraux, le « constructive alignment » et les technologies éducatives.
 
-$\circ$ Les défis de la classe multiculturelle danoise, 2016
+:heavy_minus_sign: Les défis de la classe multiculturelle danoise, 2016
 -   Ce cours comprend un atelier de quatre heures sur l'approche pédagogique danoise à l'enseignement de travaux dirigés dans un contexte multiculturel.
 
 **[Haut de page](#version-française)**<br>
