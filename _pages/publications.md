@@ -10,9 +10,11 @@ This page includes a full list of my publications, as well as links to non-paywa
 
 ### Books (Peer-Reviewed)
 
-Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)_, Amsterdam University Press. [[First Chapter]](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)
+Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)_, Amsterdam University Press (Series: Changing Welfare States). [[First Chapter]](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)
 
 ### Journal Articles (Peer-Reviewed)
+
+Anthony Kevins and Kees van Kersbergen. (Forthcoming) [The Effects of Welfare State Universalism on Migrant Integration](https://anthonykevins.github.io/files/Universalism_Integration.pdf), _Policy & Politics_.
 
 Alexander Horn and Anthony Kevins. (Online First) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_. [doi.org/10.1017/ssh.2018.13](https://doi.org/10.1017/ssh.2018.13)
 

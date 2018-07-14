@@ -10,99 +10,105 @@ redirect_from:
 
 **[Recherche](#recherche)   /   [Enseignement](#enseignement)   /   [Publications](#publications)    /   [CV](http://anthonykevins.github.io/files/CV_fr.pdf)   /   [English](https://anthonykevins.github.io)** <br>
 
-## Qui suis-je ?
+## À propos de moi
 
-Je suis chercheur Marie Curie (« Marie Curie Research Fellow ») à l'École de gouvernance de l'université d'Utrecht. Mon projet étudie les préférences de l'opinion publique pour la représentation inégale, cherchant à découvrir quand et pourquoi les citoyens croient que certains groupes sociaux méritent d'avoir une influence étendue ou réduite sur le processus politique.
+Je suis un chercheur boursier Marie Curie (« Marie Curie Research Fellow ») affilié à l'[École de gouvernance](https://www.uu.nl/en/organisation/utrecht-university-school-of-governance) de l'[Université d'Utrecht](https://www.uu.nl/en/). Mon projet de recherche étudie les réactions publiques par rapport à différents processus décisionnels. Plus précisément, j’examine quand et pourquoi les citoyens croient que certains groupes sociaux méritent d’avoir une influence étendue ou réduite sur le processus politique.
 
-Ma recherche se concentre sur l'interaction entre l'opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés. Certaines des questions que j'ai tenté d'investiguer jusqu'à maintenant sont : quels facteurs influencent les rapports entre les inclus et les exclus ? Comment peut-on mieux comprendre les préférences de l'opinion publique par rapport aux politiques sociales ? Et quels éléments incitent les réformes des programmes sociaux ?
+De façon plus générale, ma recherche se concentre sur l'interaction entre l'opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés. Certaines des questions que j'ai tenté d'investiguer jusqu'à maintenant sont : quels facteurs influencent les rapports entre les inclus et les exclus ? Comment peut-on mieux comprendre les préférences de l'opinion publique par rapport aux politiques sociales ? Et quels éléments incitent les réformes des programmes sociaux ?
 
-Avant d'occuper mon poste actuel à Utrecht, j'étais professeur adjoint (CDD de trois ans) au Département de science politique à l'université d'Aarhus, où j'étais affilié au projet UNIWEL (« Universalism and the Welfare State »). À ce titre, ma recherche portait sur l'engagement de la classe moyenne aux principes d'universalisme et de redistribution, via l'administration d'un projet de sondage original dans dix démocraties avancées.
+Avant d'occuper mon poste actuel à Utrecht, j’ai été professeur adjoint (CDD de trois ans) au [Département de science politique](http://ps.au.dk/en/) à l'[Université d'Aarhus](http://au.dk/en/), où j'étais affilié au projet UNIWEL (« Universalism and the Welfare State »). À ce titre, ma recherche portait sur l'engagement de la classe moyenne aux principes d'universalisme et de redistribution, via l'administration d'un projet de sondage original dans dix démocraties avancées.
 
-J'ai obtenu mon doctorat au Département de science politique à l'Université McGill, où j'ai travaillé avec Stuart Soroka. À McGill, j'ai exploré le dilemme auquel sont confrontés les partis et syndicats de gauche face aux lacunes des couvertures sociales et à l'austérité, plus particulièrement lorsqu'ils doivent choisir entre deux options problématiques : étendre la couverture sociale à un plus grand nombre en réduisant les « bonnes » allocations prévues pour les inclus, ou maintenir la protection, la couverture et les allocations des inclus aux dépens des exclus.
+J'ai obtenu mon doctorat en 2014 au [Département de science politique](http://www.mcgill.ca/politicalscience/) à l'[Université McGill](http://www.mcgill.ca/), où j'ai travaillé avec [Stuart Soroka](http://www.snsoroka.com). À McGill, j'ai exploré le dilemme auquel les partis de gauche sont confrontés pendant des périodes d’austérité : étendre la couverture sociale en réduisant les « bonnes » allocations pour les inclus, ou bien maintenir la protection, la couverture et les allocations des inclus aux dépens des exclus.
 
-Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon [CV](http://anthonykevins.github.io/files/CV_fr.pdf). Vous pouvez également télécharger (gratuitement) mes publications [ici](#publications).
+Mes études ont été publiées dans des revues scientifiques telles que _Socio-Economic Review_, le _Journal of European Social Policy_, _European Political Science Review_ et _Political Studies_. Vous trouverez davantage de détails sur mes projets actuels et passés ci-dessous ou en consultant mon [CV](http://anthonykevins.github.io/files/CV_fr.pdf). Vous pouvez également télécharger mes publications [ici](#publications) (libre accès).
 
 **[Haut de page](#version-française)**<br>
 <br>
 
 ## Recherche
 
-Veuillez trouver ci-dessous une présentation de mes projets de recherche actuels et passés.
+Cette section offre une présentation de mes projets de recherche actuels et passés.
 
-### Qui devrait avoir un mot à dire ? Préférences pour la représentation inégale
+### Qui devrait avoir un mot à dire ? Préférences pour la représentation différentielle
 
-La représentation équitable est le fondement de la démocratie représentative, mais est-ce que les citoyens y sont effectivement favorables ? Comme on peut le constater en observant les débats houleux sur l'influence de certains groupes sociaux, les gens peuvent avoir des positions très diverses sur la représentation inégale (c'est-à-dire l'influence différentielle sur le processus politique). Un citoyen peut croire, par exemple, qu'en matière de politiques d'intégration, les immigrés récents méritent d'avoir une influence accrue (à cause de leur degré d'affectation), une influence diminuée (à cause de leurs intérêts particuliers), ou une influence égale à celle des autres. De surcroît, le même citoyen pourrait simultanément avoir des préférences très diverses quant à d'autres groupes sociaux ou domaines politiques (par exemple, au sujet des banquiers et de la législation financière, ou des retraités et des services aux aînés). Ces opinions importent, car elles influencent le comportement des politiciens à l'égard de l'élaboration des politiques ainsi que pendant les campagnes électorales. Or, on ne sait que très peu de choses sur ces préférences.
+La représentation équitable est le fondement de la démocratie représentative. Cela dit, les citoyens y sont-ils réellement favorables ? Comme on peut le constater en observant les débats houleux sur l’influence de certains groupes sociaux, les gens peuvent avoir des positions très diverses sur la représentation différentielle (c’est-à-dire l’influence inégale des citoyens sur le processus politique). Une personne peut croire, par exemple, qu’en matière de politiques d’intégration, les immigrés récents méritent d’avoir une influence accrue (à cause de leur degré d’affectation), une influence diminuée (à cause de leurs intérêts particuliers), ou une influence égale à celle des autres. De surcroît, le même citoyen pourrait simultanément avoir des préférences très diverses quant à d’autres groupes sociaux ou domaines politiques (par exemple, au sujet des banquiers et de la législation financière, ou des retraités et des services aux aînés). Ces opinions importent, car elles peuvent influencer le comportement des politiciens à l’égard de l’élaboration des politiques ainsi que pendant les campagnes électorales. Or, on ne sait que très peu de choses sur ces préférences.
 
-Financé par une bourse Marie Curie, ce projet explore donc les attitudes envers l'influence des groupes spécifiques sur les enjeux qui les préoccupent. Pour ce faire, je me concentre sur les États-Unis et les Pays-Bas, afin de profiter de leurs similitudes et différences clés. En effectuant des expériences de sondages innovateurs et recueillant des données de panel auprès de ces deux pays, je pourrai mieux comprendre (1) la nature et (2) les déterminants principaux des préférences pour la représentation inégale. Les résultats du projet auront ainsi des implications importantes pour les ONGs, les chercheurs ainsi que pour quiconque qui veut mieux comprendre et atténuer les tensions entre les majorités et minorités dans les démocraties.
+Financé par une bourse Marie Curie (« Individual Fellowship »), ce projet explore donc les attitudes envers l’influence de groupes spécifiques sur les enjeux qui les préoccupent. Pour ce faire, je me concentre sur les États-Unis et les Pays-Bas, tirant profit de leurs similitudes et différences clés. En effectuant des expériences de sondages innovateurs et recueillant des données de panel auprès de ces deux pays, je pourrai mieux comprendre (1) la nature et (2) les déterminants principaux des préférences pour la représentation inégale. Les résultats du projet auront ainsi des implications importantes pour les ONGs, les chercheurs ainsi que pour quiconque qui veut mieux comprendre et atténuer les tensions entre les groupes majoritaires et minoritaires dans les démocraties.
+
 
 ### L'universalisme et l'État-providence
 
-À quel point les citoyens sont-ils engagés envers l'universalisme, la redistribution et l'État-providence ? Quels sont les facteurs qui influencent cet engagement ? Par mon affiliation au projet UNIWEL (universalism and the welfare state) à l'université d'Aarhus, je me suis penché sur divers sujets liés à ce thème, incluant :
+À quel point les citoyens sont-ils attachés à l’universalisme, la redistribution et l’État-providence ? Quels sont les facteurs qui influencent cet attachement ? Par mon affiliation au projet UNIWEL (« Universalism and the Welfare State » ) à l’Université d’Aarhus, je me suis penché sur divers sujets liés à ce thème, incluant :
 
--   L'effet de la structure d'inégalité sur les préférences de redistribution à travers l'échelle de revenus
--   Le contenu des programmes de partis sur l'égalité et l'État-providence
--   La relation réciproque entre les réformes de « workfare » et l'opinion publique vis-à-vis des politiques sociales
--   Les motivations imputées par les gens aux autres qui sont pour ou contre la redistribution
--   Les conséquences de l'identité de classe sur les préférences politiques
+-   [L'effet de la structure d'inégalité sur les préférences de redistribution à travers l'échelle de revenus](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)
+-   [Le contenu des programmes de partis sur l'égalité et l'État-providence](https://anthonykevins.github.io/files/Peeping_Corpus.pdf)
+-   [Les conséquences de l'identité de classe sur les préférences politiques](https://anthonykevins.github.io/files/Illusion_Class.pdf)
+-   [Le rapport entre l'universalisme et l'intégration des immigrants](https://anthonykevins.github.io/files/Universalism_Integration.pdf)
 
-Une partie importante de cette recherche est basée sur un sondage original, effectué aux États-Unis et dans neuf pays d'Europe occidentale. Cette enquête unique examine les préférences en matière de politique sociale selon différentes perspectives, y compris les préférences liées à la perception d'équité, d'immigration et de compromis de politique fiscale.
+Une partie de cette recherche est basée sur un sondage inédit, effectué aux États-Unis et dans neuf pays d’Europe occidentale. Cette enquête unique examine les préférences en matière de politique sociale selon différentes perspectives, notamment les préférences liées à la perception d’équité, d’immigration et de compromis sur la politique fiscale.
 
 ### Les inclus et les exclus de l'État-providence
 
-Qui mérite notre appui collectif ? Constituant une question clé de notre époque, les réponses ont varié radicalement à travers le temps, les pays et les domaines politiques. Alors que d'un côté, plusieurs systèmes de protection sociale se sont caractérisés par des lacunes dans leur couverture, la façon par laquelle les gouvernements ont étendu l'accès aux allocations varie grandement. D'un autre côté, ce processus a été contrebalancé par des efforts pour restreindre l'accès, afin de décourager la dépendance et de limiter les dépenses sociales. Ces changements politiques ont des ramifications importantes sur la pauvreté, l'inégalité et le soutien populaire pour l'État-providence.
+Qui mérite notre appui collectif ? Les réponses possibles à cette question ont varié radicalement à travers le temps, les pays et les domaines politiques. Alors que d'un côté, plusieurs systèmes de protection sociale se sont caractérisés par des lacunes dans leur couverture, la façon par laquelle les gouvernements ont étendu l'accès aux allocations varie grandement. D'un autre côté, ce processus a été contrebalancé par des efforts pour restreindre l'accès, afin de décourager la dépendance et de limiter les dépenses sociales.
 
-Ma recherche sur ce sujet a été publiée, entre autres, dans mon livre _[Expanding Welfare in an Age of Austerity](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)_, paru récemment (2017) chez Amsterdam University Press (disponible en Amérique du Nord chez University of Chicago Press). Cet ouvrage approfondit le dilemme auquel les partis et syndicats de gauche sont confrontés face aux lacunes des couvertures sociales et à l'austérité, lorsqu'ils doivent choisir entre la protection des acquis aux inclus et l'extension de la couverture aux exclus. Il comprend deux comparaisons entre la France et l'Italie (soutenues par plus d'une demi-année de recherche sur le terrain) ainsi qu'une étude quantitative et qualitative de la généralisabilité des résultats. Je constate que des facteurs-clés, normalement associés avec l'Europe du Sud, ont influencé les positions des partis et des politiques directement (par la création d'avantages organisationnels) et indirectement (par le conditionnement de l'opinion publique). Dans l'ensemble, le livre fait avancer les débats sur le rapport entre l'accès à la sécurité sociale et les préférences en matière de politiques sociales, tout en offrant un aperçu des défis réels auxquels sont confrontées les politiques actuelles dans le cadre des programmes d'austérité.
+Mes publications sur ce sujet se focalisent sur :
+
+-   [Les facteurs qui façonnent les réformes de l’aide sociale](https://anthonykevins.github.io/files/Political_Actors.pdf)
+-   [La confiance généralisée des inclus et des exclus](https://anthonykevins.github.io/files/Dualised_Trust.pdf)
+-   [La problématisation et la résolution des lacunes dans la couverture sociale  (livre)](http://www.press.uchicago.edu/ucp/books/book/distributed/E/bo26267228.html)
+
+Bien que mon livre ne soit pas disponible en libre accès, vous pouvez trouver le premier chapitre [ici](https://anthonykevins.github.io/files/Expanding_Welfare.pdf). Globalement, l’ouvrage approfondit le dilemme auquel les partis et syndicats de gauche sont confrontés par rapport aux lacunes des couvertures sociales en période d’austérité : doivent-ils choisir de protéger les acquis aux inclus ou plutôt d’étendre la couverture sociale aux exclus ? Mon livre comprend deux ensembles de comparaison entre la France et l’Italie (soutenus par plus d’une demi-année de recherche sur le terrain) et utilise une méthodologie quantitative et qualitative afin de tester la généralisabilité des résultats. Je constate que des facteurs-clés, normalement associés avec l’Europe du Sud, ont influencé les positions des partis et, par conséquent, des politiques, à la fois de façon directe (par la création d’avantages organisationnels) qu’indirecte (par le conditionnement de l’opinion publique). Dans l’ensemble, le livre fait avancer les débats sur le rapport entre l’accès à la sécurité sociale et les préférences en matière de politiques sociales, tout en offrant un aperçu des défis réels auxquels sont confrontées les politiques actuelles dans le cadre des programmes d’austérité.
 
 **[Haut de page](#version-française)**<br>
 <br>
 
 ## Enseignement
 
-Vous trouverez ci-dessous une vue d'ensemble de ma philosophie pédagogique ainsi que mes expériences et ma formation en enseignement.
+Vous trouverez ci-dessous une vue d’ensemble de ma philosophie pédagogique ainsi que de mes expériences et ma formation en enseignement.
 
 ### Philosophie d'enseignement
 
-Mon enseignement est modelé par la croyance qu'une formation en science politique a le potentiel de former non seulement de bons politologues, mais aussi de bons citoyens. À une époque où la simple présentation de « points de discussion » passe souvent pour un discours politique de qualité, la science politique peut aider les étudiants à dépasser ce niveau, en leur inculquant une propension permanente à développer une solide argumentation ainsi qu'une capacité de recherche améliorée.
+Mon enseignement est modelé par la croyance qu’une formation en science politique a le potentiel de former non seulement de bons politologues, mais aussi de bons citoyens. À une époque où la simple présentation de « points de discussion » passe souvent pour un discours politique de qualité, la science politique peut aider les étudiant(e)s à dépasser ce niveau, en leur inculquant une propension permanente à développer une solide argumentation ainsi qu’une capacité de recherche améliorée.
 
-En tant que professeur, je facilite ce développement en encourageant un engagement actif avec le matériel de cours et avec les autres étudiants. Je poursuis ce but par l'usage de pratiques exemplaires conseillées par la recherche pédagogique et adaptées à la lumière des commentaires des étudiants. L'élaboration de mes cours s'est donc focalisée sur le concept pédagogique de « constructive alignment », c'est-à-dire un lien étroit entre les attentes de formation, les activités d'apprentissage de nature participative et les tâches d'évaluation.
+En tant que professeur, je facilite ce développement en encourageant un engagement actif avec le matériel de cours et avec les autres étudiants. Je poursuis ce but par l’usage de pratiques exemplaires conseillées par la recherche pédagogique et adaptées à la lumière des commentaires des étudiants. L’élaboration de mes cours se focalise donc sur le concept pédagogique de « constructive alignment », c’est-à-dire un lien étroit entre les attentes de formation, les activités d’apprentissage de nature participative et les tâches d’évaluation.
 
 ### Cours enseignés
 
-Mon expérience d'enseignement inclut le développement et l'enseignement de cours de premier et deuxième cycle. Le format de ces cours varie, allant de petits séminaires de travail dirigé jusqu'aux cours magistraux de quelques centaines d'étudiants. Les matières enseignées incluent à la fois des sujets politiques et méthodologiques.
+Mon expérience d'enseignement inclut le développement et l'enseignement de cours de premier et deuxième cycle, souvent dans des contextes multidisciplinaires. Le format de mes cours varie, allant de petits séminaires de travail dirigé jusqu'aux cours magistraux de quelques centaines d'étudiants. Les matières enseignées incluent à la fois des sujets politiques et méthodologiques.
 
--   Co-enseignant, « Political Institutions »
+$\circ$ Co-enseignant, « Political Institutions »
+-   Cours de base de premier cycle, Université d'Aarhus, printemps 2016 et 2017
+-   Résumé : cours portant sur l'institutionnalisme et les institutions domestiques et supranationales, avec un accent particulier mis sur l'Union européenne
 
-    -   Cours de base de premier cycle, Université d'Aarhus, printemps 2016 et 2017
-    -   Résumé : cours portant sur l'institutionnalisme et les institutions domestiques et supranationales, avec un accent particulier mis sur l'Union européenne
+$\circ$ Co-enseignant, « Social Science Methods for Journalists »
 
--   Co-enseignant, « Social Science Methods for Journalists »
+-   Cours de base de deuxième cycle, Université d'Aarhus, automne 2016
+-   Résumé : introduction aux méthodologies qualitatives et quantitatives pour les étudiants d'un programme interdisciplinaire
 
-    -   Cours de base de deuxième cycle, Université d'Aarhus, automne 2016
-    -   Résumé : introduction aux méthodologies qualitatives et quantitatives pour les étudiants de programmes interdisciplinaires
+$\circ$ Enseignant, « Democracy and Representation »
 
--   Enseignant, « Democracy and Representation »
+-   Cours de deuxième cycle, Université d'Aarhus, automne 2015
+-   Résumé : une exploration des liens entre l'opinion publique et le processus politique
 
-    -   Cours de deuxième cycle, Université d'Aarhus, automne 2015
-    -   Résumé : une exploration des liens entre l'opinion publique et le processus politique
+$\circ$ Enseignant, « Pragmatism and Politics »
 
--   Enseignant, « Pragmatism and Politics »
+-   Cours de deuxième cycle, Université d'Aarhus, printemps 2015
+-   Résumé : une étude des défis sous-jacents à l'équilibre entre la technocratie et la démocratie
 
-    -   Cours de deuxième cycle, Université d'Aarhus, printemps 2015
-    -   Résumé : une étude des défis sous-jacents à l'équilibre entre la technocratie et la démocratie
-
--   Enseignant, « Politics: Contemporary Europe »
-    -   Résumé : un aperçu des typologies de l'États-providence, du capitalisme et des régimes de citoyenneté, ainsi qu'un examen des changements de ces systèmes
+$\circ$ Enseignant, « Politics: Contemporary Europe »
+-   Cours de premier cycle, Université McGill, été et automne 2013
+-   Résumé : un aperçu des typologies de l'États-providence, du capitalisme et des régimes de citoyenneté, ainsi que l'impact de l'Union européenne sur les politiques dans ces domaines
 
 ### Formation pédagogique
 
-J'ai assisté à deux cours pédagogiques offerts par le Centre d'enseignement et d'apprentissage de l'université d'Aarhus :
+J’ai suivi deux formations pédagogiques offertes par le Centre d’enseignement et d’apprentissage de l’Université d’Aarhus :
 
--   Programme de formation d'enseignants pour les professeurs adjoints, 2016-2017
+$\circ$ Programme de formation d'enseignants pour les professeurs adjoints, 2016-2017
 
-    -   Ce programme a consisté en six jours entiers d'ateliers couvrant un éventail de sujets, incluant les méthodes d'enseignement et d'organisation, les compétences de cours magistraux, le « constructive alignment » et les technologies éducatives
+-   Ce programme consistait à six jours complets d’ateliers couvrant un éventail de sujets, incluant les méthodes d’enseignement et d’organisation, les compétences reliées aux cours magistraux, le « constructive alignment » et les technologies éducatives.
 
--   Les défis de la classe multiculturelle danoise, 2016
-    -   Ce cours comprend un atelier de quatre heures sur l'approche pédagogique danoise à l'enseignement de travaux dirigés dans un contexte multiculturel
+$\circ$ Les défis de la classe multiculturelle danoise, 2016
+-   Ce cours comprend un atelier de quatre heures sur l'approche pédagogique danoise à l'enseignement de travaux dirigés dans un contexte multiculturel.
 
 **[Haut de page](#version-française)**<br>
 <br>
@@ -111,9 +117,11 @@ J'ai assisté à deux cours pédagogiques offerts par le Centre d'enseignement e
 
 ### Livres (avec comité de lecture)
 
-Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)_, Amsterdam University Press.
+Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)_, Amsterdam University Press (Série : Changing Welfare States). [[Premier chapitre]](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)
 
 ### Articles (dans des revues avec comité de lecture)
+
+Anthony Kevins et Kees van Kersbergen. (À paraître) [The Effects of Welfare State Universalism on Migrant Integration](https://anthonykevins.github.io/files/Universalism_Integration.pdf), _Policy & Politics_.
 
 Alexander Horn et Anthony Kevins. (OnlineFirst) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_. [doi.org/10.1017/ssh.2018.13](https://doi.org/10.1017/ssh.2018.13)
 
