@@ -76,26 +76,26 @@ En tant que professeur, je facilite ce développement en encourageant un engagem
 
 Mon expérience d'enseignement inclut le développement et l'enseignement de cours de premier et deuxième cycle, souvent dans des contextes multidisciplinaires. Le format de mes cours varie, allant de petits séminaires de travail dirigé jusqu'aux cours magistraux de quelques centaines d'étudiants. Les matières enseignées incluent à la fois des sujets politiques et méthodologiques.
 
-:heavy_minus_sign: « Political Institutions »
+-Co-enseignant, « Political Institutions »
 -   Cours de base de premier cycle, Université d'Aarhus, printemps 2016 et 2017
 -   Résumé : cours portant sur l'institutionnalisme et les institutions domestiques et supranationales, avec un accent particulier mis sur l'Union européenne
 
-:heavy_minus_sign: Co-enseignant, « Social Science Methods for Journalists »
+-Co-enseignant, « Social Science Methods for Journalists »
 
 -   Cours de base de deuxième cycle, Université d'Aarhus, automne 2016
 -   Résumé : introduction aux méthodologies qualitatives et quantitatives pour les étudiants d'un programme interdisciplinaire
 
-:heavy_minus_sign: Enseignant, « Democracy and Representation »
+-Enseignant, « Democracy and Representation »
 
 -   Cours de deuxième cycle, Université d'Aarhus, automne 2015
 -   Résumé : une exploration des liens entre l'opinion publique et le processus politique
 
-:heavy_minus_sign: Enseignant, « Pragmatism and Politics »
+-Enseignant, « Pragmatism and Politics »
 
 -   Cours de deuxième cycle, Université d'Aarhus, printemps 2015
 -   Résumé : une étude des défis sous-jacents à l'équilibre entre la technocratie et la démocratie
 
-:heavy_minus_sign: Enseignant, « Politics: Contemporary Europe »
+-Enseignant, « Politics: Contemporary Europe »
 -   Cours de premier cycle, Université McGill, été et automne 2013
 -   Résumé : un aperçu des typologies de l'États-providence, du capitalisme et des régimes de citoyenneté, ainsi que l'impact de l'Union européenne sur les politiques dans ces domaines
 
@@ -103,11 +103,11 @@ Mon expérience d'enseignement inclut le développement et l'enseignement de cou
 
 J’ai suivi deux formations pédagogiques offertes par le Centre d’enseignement et d’apprentissage de l’Université d’Aarhus :
 
-:heavy_minus_sign: Programme de formation d'enseignants pour les professeurs adjoints, 2016-2017
+-Programme de formation d'enseignants pour les professeurs adjoints, 2016-2017
 
--   Ce programme consistait à six jours complets d’ateliers couvrant un éventail de sujets, incluant les méthodes d’enseignement et d’organisation, les compétences reliées aux cours magistraux, le « constructive alignment » et les technologies éducatives.
+-  Ce programme consistait à six jours complets d’ateliers couvrant un éventail de sujets, incluant les méthodes d’enseignement et d’organisation, les compétences reliées aux cours magistraux, le « constructive alignment » et les technologies éducatives.
 
-:heavy_minus_sign: Les défis de la classe multiculturelle danoise, 2016
+-Les défis de la classe multiculturelle danoise, 2016
 -   Ce cours comprend un atelier de quatre heures sur l'approche pédagogique danoise à l'enseignement de travaux dirigés dans un contexte multiculturel.
 
 **[Haut de page](#version-française)**<br>
@@ -125,7 +125,8 @@ Anthony Kevins et Kees van Kersbergen. (À paraître) [The Effects of Welfare St
 
 Alexander Horn et Anthony Kevins. (OnlineFirst) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_. [doi.org/10.1017/ssh.2018.13](https://doi.org/10.1017/ssh.2018.13)
 
-Carsten Jensen et Anthony Kevins. (OnlineFirst) ["Numbers and Attitudes Towards Welfare State Generosity"](https://anthonykevins.github.io/files/Numbers_and_Generosity.pdf), _Political Studies_. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)
+Carsten Jensen et Anthony Kevins. (OnlineFirst) ["Numbers and Attitudes Towards Welfare State Generosity"](https://anthonykevins.github.io/files/Numbers_and_Generosity.pdf), _Political Studies_. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)\
+-Résumé sur le [LSE British Politics & Policy Blog]( https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/)
 
 Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (OnlineFirst) ["The Illusion of Class in Welfare State Politics?"](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_. [dx.doi.org/10.1017/S0047279418000247](https://dx.doi.org/10.1017/S0047279418000247)
 
@@ -133,7 +134,8 @@ Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (OnlineFi
 
 Anthony Kevins. (OnlineFirst) ["Dualized Trust: Risk, social trust, and the welfare state"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
-Anthony Kevins et Stuart Soroka. (2018) ["Growing Apart?: Partisan Sorting in Canada, 1992-2015"](https://anthonykevins.github.io/files/Growing_Apart.pdf), _Canadian Journal of Political Science_, 51(1): 103-133. [doi.org/10.1017/S0008423917000713](https://doi.org/10.1017/S0008423917000713)
+Anthony Kevins et Stuart Soroka. (2018) ["Growing Apart?: Partisan Sorting in Canada, 1992-2015"](https://anthonykevins.github.io/files/Growing_Apart.pdf), _Canadian Journal of Political Science_, 51(1): 103-133. [doi.org/10.1017/S0008423917000713](https://doi.org/10.1017/S0008423917000713)\
+-Couverture médiatique dans [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/)
 
 Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (2017) ["Peeping at the corpus – What is really going on behind the equality and welfare items of the Manifesto project?"](https://anthonykevins.github.io/files/Peeping_Corpus.pdf), _Journal of European Social Policy_, 27(5) : 403-416. [doi.org/10.1177/0958928716688263](https://doi.org/10.1177/0958928716688263)
 
