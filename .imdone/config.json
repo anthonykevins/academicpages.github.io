@@ -17,10 +17,15 @@
       "XXX",
       "IDEA",
       "NOTE",
-      "REVIEW"
+      "REVIEW",
+      "HELP"
     ]
   },
   "lists": [
+    {
+      "name": "HELP",
+      "hidden": false
+    },
     {
       "name": "TODO",
       "hidden": false
@@ -46,5 +51,6 @@
     "id": "59f31b6164dbf35aace03189",
     "name": "anthonykevins/anthonykevins.github.io",
     "useImdoneioForPriority": true
-  }
+  },
+  "noHelp": true
 }
