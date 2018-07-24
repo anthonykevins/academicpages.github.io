@@ -22,7 +22,7 @@ How committed are citizens to universalism, redistribution, and the welfare stat
 -   [The effects of welfare state universalism on immigrant integration](https://anthonykevins.github.io/files/Universalism_Integration.pdf)
 -   [The equality and welfare content of party manifestoes](https://anthonykevins.github.io/files/Peeping_Corpus.pdf)
 
-Much of this research has been rooted in an original survey fielded in the US and nine Western European countries. These unique surveys examine social policy preferences from a variety of perspectives, including as they relate to perceptions of fairness, policy trade-offs, inequality, and immigration.
+A portion of this research is rooted in an original survey fielded in the US and nine Western European countries. These unique surveys examine social policy preferences from a variety of perspectives, including as they relate to perceptions of fairness, policy trade-offs, inequality, and immigration.
 
 ### Insiders and Outsiders
 
