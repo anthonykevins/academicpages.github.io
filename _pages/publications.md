@@ -18,7 +18,7 @@ Anthony Kevins and Kees van Kersbergen. (Forthcoming) [The Effects of Welfare St
 
 Alexander Horn and Anthony Kevins. (Online First) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_. [doi.org/10.1017/ssh.2018.13](https://doi.org/10.1017/ssh.2018.13)
 
-Carsten Jensen and Anthony Kevins. (Online First) ["Numbers and Attitudes Towards Welfare State Generosity"](https://anthonykevins.github.io/files/Numbers_and_Generosity.pdf), _Political Studies_. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)<br>
+Carsten Jensen and Anthony Kevins. (Online First) ["Numbers and Attitudes Towards Welfare State Generosity"](http://journals.sagepub.com/doi/pdf/10.1177/0032321718780516), _Political Studies_. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)<br>
 -Summarized on the [LSE British Politics & Policy Blog]( http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/)
 
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Online First) ["The Illusion of Class in Welfare State Politics?"](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_. [dx.doi.org/10.1017/S0047279418000247](https://dx.doi.org/10.1017/S0047279418000247)
