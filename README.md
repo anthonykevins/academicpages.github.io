@@ -1,3 +1,5 @@
+[![TODO board](https://imdone.io/api/1.0/projects/59f31b6164dbf35aace03189/badge)](https://imdone.io/app#/board/anthonykevins/anthonykevins.github.io)
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 If you're interested in setting up your own website using this template, here are the instructions to do so: 
