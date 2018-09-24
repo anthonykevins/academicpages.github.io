@@ -16,19 +16,19 @@ My task as a teacher is to facilitate this development by encouraging active eng
 
 ### Courses Taught
 
-My teaching experience has included undergraduate and graduate course development and instruction. In formats ranging from small seminars to large lectures involving several hundred students, I have taught both substantive and methodological subject matter.
+My teaching experience includes undergraduate and graduate course development and instruction, in formats ranging from small seminars to large lectures involving several hundred students. I have taught both methodological and substantive subject matter, covering topics in Comparative Politics, Political Behaviour, IR, and Research Methods.
 
 - Co-Instructor, "Political Institutions"
   - Overview: Bachelor's Core Course, Aarhus University, Spring 2016 & 2017
-  - Course Description: A survey course on institutionalism and various domestic and supranational institutions (with a particular focus on the European Union)
+  - Course Description: A survey course on institutionalism and various domestic and supranational institutions, with a particular focus on the European Union
 
 - Co-Instructor, "Social Science Methods for Journalists"
   - Overview: Master's Core Course, Aarhus University, Fall 2016
-  - Course Description: An introduction to quantitative and qualitative social science methods
+  - Course Description: An introduction to social science research design and methods (both quantitative and qualitative)
 
 - Instructor, "Democracy and Representation"
   - Overview: Master's Seminar, Aarhus University, Fall 2015
-  - Course Description: An exploration of the link between public opinion and policy making
+  - Course Description: An exploration of the bi-directional link between public opinion and policy making, including patterns of unequal representation
 
 - Instructor, "Pragmatism and Politics"
   - Overview: Master's Seminar, Aarhus University, Spring 2015
@@ -36,7 +36,7 @@ My teaching experience has included undergraduate and graduate course developmen
 
 - Instructor, "Politics: Contemporary Europe"
   - Overview: Bachelor's Course, McGill University, Summer & Fall 2013
-  - Course Description: A survey of welfare state, capitalist, and citizenship regime typologies, as well as policy changes across them
+  - Course Description: A survey of welfare state, capitalist, and citizenship regime typologies, as well as the policy changes across them
 
 ### Pedagogical Training
 
@@ -46,4 +46,4 @@ I have participated in the following formal pedagogical courses from Aarhus Univ
   - This programme consisted of six full days of workshops, covering topics such as Teaching Methods and Organisation, Integrated Course Design, Lecturing Skills, and Educational IT
 
 - Challenges of the Multicultural Classroom in a Danish Context, 2016
-  - This course consisted of a four-hour workshop on the Danish pedagogical approach to seminar-based teaching in a multicultural context
+  - This course consisted of a four-hour workshop on the Danish pedagogical approach to seminar-based teaching and an hour-long evaluation of each participant's teaching
