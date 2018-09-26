@@ -123,8 +123,6 @@ Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Pr
 
 Anthony Kevins et Kees van Kersbergen. (À paraître) [The Effects of Welfare State Universalism on Migrant Integration](https://anthonykevins.github.io/files/Universalism_Integration.pdf), _Policy & Politics_.
 
-Alexander Horn et Anthony Kevins. (OnlineFirst) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_. [doi.org/10.1017/ssh.2018.13](https://doi.org/10.1017/ssh.2018.13)
-
 Carsten Jensen et Anthony Kevins. (OnlineFirst) ["Numbers and Attitudes Towards Welfare State Generosity"](http://journals.sagepub.com/doi/pdf/10.1177/0032321718780516), _Political Studies_. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)<br>
 -Résumé sur le [LSE British Politics & Policy Blog]( http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/)
 
@@ -134,7 +132,9 @@ Anthony Kevins. (OnlineFirst) ["Dualized Trust: Risk, social trust, and the welf
 
 Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (2018) ["Yardsticks of Inequality: Preferences for Redistribution in Advanced Democracies"](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf), _Journal of European Social Policy_, 28(4): 402-418. [doi.org/10.1177/0958928717753579](https://doi.org/10.1177/0958928717753579)
 
-Anthony Kevins et Stuart Soroka. (2018) ["Growing Apart?: Partisan Sorting in Canada, 1992-2015"](https://anthonykevins.github.io/files/Growing_Apart.pdf), _Canadian Journal of Political Science_, 51(1): 103-133. [doi.org/10.1017/S0008423917000713](https://doi.org/10.1017/S0008423917000713)<br>
+Alexander Horn et Anthony Kevins. (2018) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_, 42(3): 495-515. [doi.org/10.1017/ssh.2018.13](https://doi.org/10.1017/ssh.2018.13)
+
+Anthony Kevins et Stuart Soroka. (2018) ["Growing Apart? Partisan Sorting in Canada, 1992-2015"](https://anthonykevins.github.io/files/Growing_Apart.pdf), _Canadian Journal of Political Science_, 51(1): 103-133. [doi.org/10.1017/S0008423917000713](https://doi.org/10.1017/S0008423917000713)<br>
 -Couverture médiatique dans [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/)
 
 Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (2017) ["Peeping at the corpus – What is really going on behind the equality and welfare items of the Manifesto project?"](https://anthonykevins.github.io/files/Peeping_Corpus.pdf), _Journal of European Social Policy_, 27(5) : 403-416. [doi.org/10.1177/0958928716688263](https://doi.org/10.1177/0958928716688263)
