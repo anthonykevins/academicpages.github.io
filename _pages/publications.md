@@ -21,7 +21,7 @@ Carsten Jensen and Anthony Kevins. (OnlineFirst) ["Numbers and Attitudes Towards
 
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (OnlineFirst) ["The Illusion of Class in Welfare State Politics?"](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_. [dx.doi.org/10.1017/S0047279418000247](https://dx.doi.org/10.1017/S0047279418000247)
 
-Anthony Kevins. (OnlineFirst) ["Dualized Trust: Risk, social trust, and the welfare state"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
+Anthony Kevins. (OnlineFirst) ["Dualized Trust: Risk, Social Trust, and the Welfare State"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (2018) ["Yardsticks of Inequality: Preferences for Redistribution in Advanced Democracies"](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf), _Journal of European Social Policy_, 28(4): 402-418. [doi.org/10.1177/0958928717753579](https://doi.org/10.1177/0958928717753579)
 
@@ -30,7 +30,7 @@ Alexander Horn and Anthony Kevins. (2018) ["Problem Pressure and Social Policy I
 Anthony Kevins and Stuart Soroka. (2018) ["Growing Apart? Partisan Sorting in Canada, 1992-2015"](https://anthonykevins.github.io/files/Growing_Apart.pdf), _Canadian Journal of Political Science_, 51(1): 103-133. [doi.org/10.1017/S0008423917000713](https://doi.org/10.1017/S0008423917000713)<br>
 -Media coverage in [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/)
 
-Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (2017) ["Peeping at the corpus – What is really going on behind the equality and welfare items of the Manifesto project?"](https://anthonykevins.github.io/files/Peeping_Corpus.pdf), _Journal of European Social Policy_, 27(5): 403-416. [doi.org/10.1177/0958928716688263](https://doi.org/10.1177/0958928716688263)
+Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (2017) ["Peeping at the Corpus – What is Really Going on Behind the Equality and Welfare Items of the Manifesto Project?"](https://anthonykevins.github.io/files/Peeping_Corpus.pdf), _Journal of European Social Policy_, 27(5): 403-416. [doi.org/10.1177/0958928716688263](https://doi.org/10.1177/0958928716688263)
 
 Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting, and Will Kymlicka. (2016) ["Migration and Welfare State Spending"](https://anthonykevins.github.io/files/Migration_Welfare.pdf), _European Political Science Review_, 8(2): 173-194. [doi.org/10.1017/S1755773915000041](https://doi.org/10.1017/S1755773915000041)
 
