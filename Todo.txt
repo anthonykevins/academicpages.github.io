@@ -2,7 +2,3 @@
 #TODO: Look at German panel data (updated): make index using group influence questions; Does the it have questions about immigrants? Could use it to get at the effect of labour market experiences on attitudes toward immigrants. id:220
 #TODO: EPS Dataset paper (after other papers are done) id:8
 #TODO: Look at new ESS round id:9
-#TODO: Ask Barbara about Vidi application (fall) - worth it to apply without position? id:221
-
-
-test
