@@ -6,13 +6,13 @@ redirect_from:
   - /teaching
 ---
 
-Below you will find a brief overview of my teaching philosophy, experience, and training. For more information, please consult my [Statement of Teaching Philosophy](https://anthonykevins.github.io/files/Teaching_Philosophy.pdf) or my full [Teaching Portfolio](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf).
+Below you will find a brief overview of my teaching philosophy, experience, and training. For more information, please consult my [Teaching Portfolio](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf).
 
 ### Teaching Philosophy
 
-My teaching is shaped by the belief that a political science education has the potential to help form not only good political scientists, but also good citizens. In an age in which the formulaic presentation of talking points often passes for quality political discourse, political science can help students move beyond these arguments - ideally creating a lifelong propensity toward higher quality argumentation and research.
+My teaching is shaped by the belief that a political science education has the potential to help form not only good political scientists, but also good citizens. In an age in which formulaic talking points often pass for quality political discourse, I believe that political science can help students move beyond facile arguments by improving their substantive political knowledge, scientific literacy, and critical reasoning skills.
 
-My task as a teacher is to facilitate this development by encouraging active engagement with both the course material and other students. I do so by employing educational best-practices informed by pedagogical research and adapted to student feedback. My course development thus centres around the concept of constructive alignment – that is, a close connection between the intended learning outcomes for a course, the active student learning activities I employ, and the assessment tasks I assign.
+As a teacher, my task is to facilitate this growth by encouraging students to actively engage with both the course material and their peers. I do so by employing pedagogical best-practices tied to constructive alignment, active learning, and an open dialogue with students.
 
 ### Courses Taught
 
