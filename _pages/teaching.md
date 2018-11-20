@@ -43,7 +43,7 @@ My teaching experience includes undergraduate and graduate course development an
 I have participated in the following formal pedagogical courses from Aarhus University's Centre for Teaching and Learning:
 
 - Teacher Training Programme for Assistant Professors, 2016-2017
-  - This programme consisted of six full days of workshops, covering topics such as Teaching Methods and Organisation, Integrated Course Design, Lecturing Skills, and Educational IT
+  - This (5-ECTS) programme consisted of six full days of workshops, covering topics such as Teaching Methods and Organisation, Integrated Course Design, Lecturing Skills, and Educational IT
 
 - Challenges of the Multicultural Classroom in a Danish Context, 2016
-  - This course consisted of a four-hour workshop on the Danish pedagogical approach to seminar-based teaching and an hour-long evaluation of each participant's teaching
+  - This course consisted of a four-hour workshop on seminar-based teaching and an hour-long evaluation of each participant's teaching
