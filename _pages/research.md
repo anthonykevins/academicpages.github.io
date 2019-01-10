@@ -17,9 +17,10 @@ Funded by a Marie Curie Individual Fellowship, this project investigates attitud
 ### Universalism and the Welfare State
 
 How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Through my  affiliation with the UNIWEL (Universalism and the Welfare State) project at Aarhus University, I have investigated various topics related to this theme. My published work on the topic has examined:
--   [The attitudinal effects of the structure of inequality across the income spectrum](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)
--   [The implications of class identity for social policy preferences](https://anthonykevins.github.io/files/Illusion_Class.pdf)
+-   [The motives citizens ascribe to their pro- and anti-redistribution compatriots](https://anthonykevins.github.io/files/Motive_Attribution.pdf)
 -   [The effects of welfare state universalism on immigrant integration](https://anthonykevins.github.io/files/Universalism_Integration.pdf)
+-   [The implications of class identity for social policy preferences](https://anthonykevins.github.io/files/Illusion_Class.pdf)
+-   [The attitudinal effects of the structure of inequality across the income spectrum](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)
 -   [The equality and welfare content of party manifestoes](https://anthonykevins.github.io/files/Peeping_Corpus.pdf)
 
 A portion of this research is rooted in an original survey fielded in the US and nine Western European countries. These unique surveys examine social policy preferences from a variety of perspectives, including as they relate to perceptions of fairness, policy trade-offs, inequality, and immigration.

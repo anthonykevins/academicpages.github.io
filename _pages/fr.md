@@ -40,9 +40,10 @@ Financé par une bourse Marie Curie (« Individual Fellowship »), ce projet exp
 
 À quel point les citoyens sont-ils attachés à l’universalisme, la redistribution et l’État-providence ? Quels sont les facteurs qui influencent cet attachement ? Par mon affiliation au projet UNIWEL (« Universalism and the Welfare State » ) à l’Université d’Aarhus, je me suis penché sur divers sujets liés à ce thème, incluant :
 
--   [L'effet de la structure d'inégalité sur les préférences de redistribution à travers l'échelle de revenus](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)
--   [Les conséquences de l'identité de classe sur les préférences politiques](https://anthonykevins.github.io/files/Illusion_Class.pdf)
+-   [Les motivations imputées aux personnes qui sont pour ou contre la redistribution}(https://anthonykevins.github.io/files/Motive_Attribution.pdf)
 -   [Le rapport entre l'universalisme et l'intégration des immigrants](https://anthonykevins.github.io/files/Universalism_Integration.pdf)
+-   [Les conséquences de l'identité de classe sur les préférences politiques](https://anthonykevins.github.io/files/Illusion_Class.pdf)
+-   [L'effet de la structure d'inégalité sur les préférences de redistribution à travers l'échelle de revenus](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)
 -   [Le contenu des programmes de partis sur l'égalité et l'État-providence](https://anthonykevins.github.io/files/Peeping_Corpus.pdf)
 
 Une partie de cette recherche est basée sur un sondage inédit, effectué aux États-Unis et dans neuf pays d’Europe occidentale. Cette enquête unique examine les préférences en matière de politique sociale selon différentes perspectives, notamment les préférences liées à la perception d’équité, d’immigration et de compromis sur la politique fiscale.
@@ -120,6 +121,8 @@ J’ai suivi deux formations pédagogiques offertes par le Centre d’enseigneme
 Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)_, Amsterdam University Press (Série : Changing Welfare States). [[Premier chapitre]](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)
 
 ### Articles (dans des revues avec comité de lecture)
+
+Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (À paraître) ["Motive Attribution and the Moral Politics of the Welfare State"](https://anthonykevins.github.io/files/Motive_Attribution.pdf), _Journal of Social Policy_.
 
 Anthony Kevins et Kees van Kersbergen. (OnlineFirst) [« The Effects of Welfare State Universalism on Migrant Integration »](https://anthonykevins.github.io/files/Universalism_Integration.pdf), _Policy & Politics_. [doi.org/10.1332/030557318X15407315707251](https://doi.org/10.1332/030557318X15407315707251)
 
