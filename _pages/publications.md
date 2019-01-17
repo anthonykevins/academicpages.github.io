@@ -30,7 +30,7 @@ Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (2018) 
 Alexander Horn and Anthony Kevins. (2018) ["Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany"](https://anthonykevins.github.io/files/Problem_Pressure.pdf), _Social Science History_, 42(3): 495-515. [doi.org/10.1017/ssh.2018.13](https://doi.org/10.1017/ssh.2018.13)
 
 Anthony Kevins and Stuart Soroka. (2018) ["Growing Apart? Partisan Sorting in Canada, 1992-2015"](https://anthonykevins.github.io/files/Growing_Apart.pdf), _Canadian Journal of Political Science_, 51(1): 103-133. [doi.org/10.1017/S0008423917000713](https://doi.org/10.1017/S0008423917000713)<br>
--Media coverage in [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/)
+-Media coverage in [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/) and [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/)
 
 Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (2017) ["Peeping at the Corpus – What is Really Going on Behind the Equality and Welfare Items of the Manifesto Project?"](https://anthonykevins.github.io/files/Peeping_Corpus.pdf), _Journal of European Social Policy_, 27(5): 403-416. [doi.org/10.1177/0958928716688263](https://doi.org/10.1177/0958928716688263)
 
