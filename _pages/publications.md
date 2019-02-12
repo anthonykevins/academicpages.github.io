@@ -21,7 +21,8 @@ Carsten Jensen and Anthony Kevins. (OnlineFirst) ["Numbers and Attitudes Towards
 
 Anthony Kevins. (OnlineFirst) ["Dualized Trust: Risk, Social Trust, and the Welfare State"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
-Anthony Kevins and Kees van Kersbergen. (2019) ["The Effects of Welfare State Universalism on Migrant Integration"](https://anthonykevins.github.io/files/Universalism_Integration.pdf), _Policy & Politics_, 47(1): 115-132. [doi.org/10.1332/030557318X15407315707251](https://doi.org/10.1332/030557318X15407315707251)
+Anthony Kevins and Kees van Kersbergen. (2019) ["The Effects of Welfare State Universalism on Migrant Integration"](https://anthonykevins.github.io/files/Universalism_Integration.pdf), _Policy & Politics_, 47(1): 115-132. [doi.org/10.1332/030557318X15407315707251](https://doi.org/10.1332/030557318X15407315707251)<br>
+-Summarized on [Discover Society]( https://discoversociety.org/2019/02/06/policy-and-politics-one-of-us-how-welfare-states-help-shape-immigrant-integration/)
 
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (2019) ["The Illusion of Class in Welfare State Politics?"](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_, 48(1): 21-41. [dx.doi.org/10.1017/S0047279418000247](https://dx.doi.org/10.1017/S0047279418000247)
 
