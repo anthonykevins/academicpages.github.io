@@ -19,12 +19,12 @@
       text-decoration: underline;
 
       &:visited {
-        color: rgb(121, 130, 136)
+        color: rgb(121, 130, 136);
       }
 	
 	    &:hover {
 	      text-decoration: underline;
-	
+        color: rgb(121, 130, 136);
 	      img {
 	        box-shadow: 0 0 10px rgba(#000, 0.25);
 	      }
