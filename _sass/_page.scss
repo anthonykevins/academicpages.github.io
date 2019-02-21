@@ -75,7 +75,11 @@
     a {
       color: black;
       text-decoration: underline;
-  
+      
+      &:visit {
+        color: rgb(121, 130, 136)
+      }
+      
       &:hover {
         text-decoration: underline;
   
