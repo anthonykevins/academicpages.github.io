@@ -12,7 +12,7 @@ redirect_from:
 
 ## À propos de moi
 
-Je suis un chercheur boursier Marie Curie (« Marie Curie Research Fellow ») affilié à l'[École de gouvernance](https://www.uu.nl/en/organisation/utrecht-university-school-of-governance) de l'[Université d'Utrecht](https://www.uu.nl/en/). Mon projet de recherche étudie les réactions publiques par rapport à différents processus décisionnels. Plus précisément, j’examine quand et pourquoi les citoyens croient que certains groupes sociaux méritent d’avoir une influence étendue ou réduite sur le processus politique.
+Je suis un chercheur boursier Marie Curie (« Marie Curie Research Fellow ») affilié à l'[École de gouvernance](https://www.uu.nl/en/organisation/utrecht-university-school-of-governance) de l'[Université d'Utrecht](https://www.uu.nl/en/). Mon projet de recherche, supervisé par [Barbara Vis](http://www.barbaravis.nl), étudie les réactions publiques par rapport à différents processus décisionnels. Plus précisément, j’examine quand et pourquoi les citoyens croient que certains groupes sociaux méritent d’avoir une influence étendue ou réduite sur le processus politique.
 
 De façon plus générale, ma recherche se concentre sur l'interaction entre l'opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés. Certaines des questions que j'ai tenté d'investiguer jusqu'à maintenant sont : quels facteurs influencent les rapports entre les inclus et les exclus ? Comment peut-on mieux comprendre les préférences de l'opinion publique par rapport aux politiques sociales ? Et quels éléments incitent les réformes des programmes sociaux ?
 
