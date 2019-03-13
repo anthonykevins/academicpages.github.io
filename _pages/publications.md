@@ -14,7 +14,9 @@ Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
-Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (Forthcoming) ["Motive Attribution and the Moral Politics of the Welfare State"](https://anthonykevins.github.io/files/Motive_Attribution.pdf), _Journal of Social Policy_.
+Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (OnlineFirst) ["Motive Attribution and the Moral Politics of the Welfare State"](https://anthonykevins.github.io/files/Motive_Attribution.pdf), _Journal of Social Policy_. [
+doi.org/10.1017/S0047279419000175](
+https://doi.org/10.1017/S0047279419000175)
 
 Carsten Jensen and Anthony Kevins. (OnlineFirst) ["Numbers and Attitudes Towards Welfare State Generosity"](http://journals.sagepub.com/doi/pdf/10.1177/0032321718780516), _Political Studies_. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)<br>
 -Summarized on the [LSE British Politics & Policy Blog]( http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/)
