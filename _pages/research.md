@@ -28,8 +28,8 @@ A portion of this research is rooted in an original survey fielded in the US and
 ### Insiders and Outsiders
 
 What institutional factors shape relations between insiders and outsiders? Several of my studies explore the division between groups that have historically been protected by social policy and labour market regulations (i.e. insiders) and those we have excluded from that protection (i.e. outsiders). Some of the topics I have addressed with this research include:
+-   [The institutional and political determinants of coverage extension (book)](https://www.jstor.org/stable/j.ctt20krz5m)
 -   [The drivers of social assistance reforms](https://anthonykevins.github.io/files/Political_Actors.pdf)
 -   [The impact of the insider/outsider divide on generalised trust](https://anthonykevins.github.io/files/Dualised_Trust.pdf)
--   [The institutional and political determinants of coverage extension (book)](https://www.jstor.org/stable/j.ctt20krz5m)
 
 While my monograph is not open access, you can find the first chapter [here](https://anthonykevins.github.io/files/Expanding_Welfare.pdf). Overall, the book concentrates on the dilemma leftist parties and unions face when confronted with coverage gaps under austerity, as they choose between maintaining the benefit levels of insiders and extending coverage to outsiders. It does so by starting from two sets of French-Italian comparisons (complemented by over half a year of field research) and building to both quantitative and qualitative tests of generalisability. I conclude that the role of certain key institutional features has been underemphasised in the literature. These (typically Southern European) factors shape party stances and policy outcomes both directly – through creating organisational incentives – and indirectly – through conditioning public opinion.

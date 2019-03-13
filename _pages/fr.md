@@ -54,9 +54,9 @@ Qui mérite notre appui collectif ? Les réponses possibles à cette question on
 
 Mes publications sur ce sujet se focalisent sur :
 
+-   [La problématisation et la résolution des lacunes dans la couverture sociale  (livre)](https://www.jstor.org/stable/j.ctt20krz5m)
 -   [Les facteurs qui façonnent les réformes de l’aide sociale](https://anthonykevins.github.io/files/Political_Actors.pdf)
 -   [La confiance généralisée des inclus et des exclus](https://anthonykevins.github.io/files/Dualised_Trust.pdf)
--   [La problématisation et la résolution des lacunes dans la couverture sociale  (livre)](https://www.jstor.org/stable/j.ctt20krz5m)
 
 Bien que mon livre ne soit pas disponible en libre accès, vous pouvez trouver le premier chapitre [ici](https://anthonykevins.github.io/files/Expanding_Welfare.pdf). Globalement, l’ouvrage approfondit le dilemme auquel les partis et syndicats de gauche sont confrontés par rapport aux lacunes des couvertures sociales en période d’austérité : doivent-ils choisir de protéger les acquis aux inclus ou plutôt d’étendre la couverture sociale aux exclus ? Mon livre comprend deux ensembles de comparaison entre la France et l’Italie (soutenus par plus d’une demi-année de recherche sur le terrain) et utilise une méthodologie quantitative et qualitative afin de tester la généralisabilité des résultats. Je constate que des facteurs-clés, normalement associés avec l’Europe du Sud, ont influencé les positions des partis et, par conséquent, des politiques, à la fois de façon directe (par la création d’avantages organisationnels) qu’indirecte (par le conditionnement de l’opinion publique). Dans l’ensemble, le livre fait avancer les débats sur le rapport entre l’accès à la sécurité sociale et les préférences en matière de politiques sociales, tout en offrant un aperçu des défis réels auxquels sont confrontées les politiques actuelles dans le cadre des programmes d’austérité.
 
